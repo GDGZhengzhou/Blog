@@ -143,6 +143,7 @@ menu:
   categories: /categories/ || th
   archives: /archives/ || archive
   people: /people/ || users
+  #help: /help/ || info
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat

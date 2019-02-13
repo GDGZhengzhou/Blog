@@ -33,7 +33,22 @@ date: 2019-02-13 16:21:56
 
 <!-- ![](https://i.loli.net/2019/02/13/5c63e3652c89e.jpg) -->
 
-但受限于微信公众平台的繁琐操作，一些较小的活动在公众号上不会及时通知，还是希望你通过 [Meetup](https://www.meetup.com/gdg-zhengzhou/) 关注我们，可以保证第一时间啊接收到活动通知。
+但受限于微信公众平台的繁琐操作，一些较小的活动在公众号上不会及时通知，还是希望你通过 [Meetup](https://www.meetup.com/gdg-zhengzhou/) 关注我们，可以保证第一时间接收到活动通知。
 
 ## 发布地址
-当前 GDG Zhengzhou 有多个发布渠道
+当前 GDG Zhengzhou 有多个发布渠道，其中以微信公众平台、Meetup、官方网站、官方博客为主，为了节约维护成本，我们会根据活动类型有选择发布活动信息，具体请参加以下列表
+
+### 大型活动
+活动状态 | 发布渠道 | 发布时效
+------------- | ------------- | -------------
+开始前宣传 | 
+ | | 
+
+
+
+*类型说明*
+> `大型活动`指 GDG Global 每年传统活动，包括 WTM, I/O Extended, DevFest, Cloud Extended, Flutter Live extended, TensorFlow Day。
+
+> `CODE活动`指线下代码实操活动，包含 Hackathon, Codelab, Study Jams。
+
+> `Meetup`指日常 Meetup，通常没有实际操作的部分，以话题讨论、小规模技术分享、实验性质活动为主
