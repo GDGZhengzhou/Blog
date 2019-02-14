@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.gdgzhengzhou.org/"/>
-  <updated>2019-02-13T14:29:27.078Z</updated>
-  <id>http://www.gdgzhengzhou.org/</id>
+  <link href="http://blog.gdgzhengzhou.org/"/>
+  <updated>2019-02-14T07:38:37.010Z</updated>
+  <id>http://blog.gdgzhengzhou.org/</id>
   
   <author>
     <name>GDG Zhengzhou</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Google I/O 2018 Extended Zhengzhou活动总结</title>
-    <link href="http://www.gdgzhengzhou.org/2018/05/Google_IO_Extended_2018/"/>
-    <id>http://www.gdgzhengzhou.org/2018/05/Google_IO_Extended_2018/</id>
+    <link href="http://blog.gdgzhengzhou.org/2018/05/Google_IO_Extended_2018/"/>
+    <id>http://blog.gdgzhengzhou.org/2018/05/Google_IO_Extended_2018/</id>
     <published>2018-05-09T10:00:00.000Z</published>
-    <updated>2019-02-13T14:29:27.078Z</updated>
+    <updated>2019-02-14T07:38:37.010Z</updated>
     
     <summary type="html">
     
@@ -29,21 +29,21 @@
     
     </summary>
     
-      <category term="Events" scheme="http://www.gdgzhengzhou.org/categories/Events/"/>
+      <category term="Events" scheme="http://blog.gdgzhengzhou.org/categories/Events/"/>
     
     
-      <category term="Google I/O" scheme="http://www.gdgzhengzhou.org/tags/Google-I-O/"/>
+      <category term="Google I/O" scheme="http://blog.gdgzhengzhou.org/tags/Google-I-O/"/>
     
-      <category term="2018" scheme="http://www.gdgzhengzhou.org/tags/2018/"/>
+      <category term="2018" scheme="http://blog.gdgzhengzhou.org/tags/2018/"/>
     
   </entry>
   
   <entry>
     <title>Women Techmakers 2018@郑州GDG 活动总结</title>
-    <link href="http://www.gdgzhengzhou.org/2018/04/Women_Techmakers_2018/"/>
-    <id>http://www.gdgzhengzhou.org/2018/04/Women_Techmakers_2018/</id>
+    <link href="http://blog.gdgzhengzhou.org/2018/04/Women_Techmakers_2018/"/>
+    <id>http://blog.gdgzhengzhou.org/2018/04/Women_Techmakers_2018/</id>
     <published>2018-04-22T10:00:00.000Z</published>
-    <updated>2019-02-13T14:29:27.078Z</updated>
+    <updated>2019-02-14T07:38:37.010Z</updated>
     
     <summary type="html">
     
@@ -51,23 +51,23 @@
     
     </summary>
     
-      <category term="Events" scheme="http://www.gdgzhengzhou.org/categories/Events/"/>
+      <category term="Events" scheme="http://blog.gdgzhengzhou.org/categories/Events/"/>
     
     
-      <category term="2018" scheme="http://www.gdgzhengzhou.org/tags/2018/"/>
+      <category term="2018" scheme="http://blog.gdgzhengzhou.org/tags/2018/"/>
     
-      <category term="WTM" scheme="http://www.gdgzhengzhou.org/tags/WTM/"/>
+      <category term="WTM" scheme="http://blog.gdgzhengzhou.org/tags/WTM/"/>
     
-      <category term="IWD" scheme="http://www.gdgzhengzhou.org/tags/IWD/"/>
+      <category term="IWD" scheme="http://blog.gdgzhengzhou.org/tags/IWD/"/>
     
   </entry>
   
   <entry>
     <title>2018 TensorFlow DevSummit Viewing Party 活动总结</title>
-    <link href="http://www.gdgzhengzhou.org/2018/04/TensorFlow_DevSummit_Viewing_Party_2018/"/>
-    <id>http://www.gdgzhengzhou.org/2018/04/TensorFlow_DevSummit_Viewing_Party_2018/</id>
+    <link href="http://blog.gdgzhengzhou.org/2018/04/TensorFlow_DevSummit_Viewing_Party_2018/"/>
+    <id>http://blog.gdgzhengzhou.org/2018/04/TensorFlow_DevSummit_Viewing_Party_2018/</id>
     <published>2018-04-01T10:00:00.000Z</published>
-    <updated>2019-02-13T14:29:27.078Z</updated>
+    <updated>2019-02-14T07:38:37.010Z</updated>
     
     <summary type="html">
     
@@ -75,21 +75,21 @@
     
     </summary>
     
-      <category term="Events" scheme="http://www.gdgzhengzhou.org/categories/Events/"/>
+      <category term="Events" scheme="http://blog.gdgzhengzhou.org/categories/Events/"/>
     
     
-      <category term="2018" scheme="http://www.gdgzhengzhou.org/tags/2018/"/>
+      <category term="2018" scheme="http://blog.gdgzhengzhou.org/tags/2018/"/>
     
-      <category term="TensorFlow" scheme="http://www.gdgzhengzhou.org/tags/TensorFlow/"/>
+      <category term="TensorFlow" scheme="http://blog.gdgzhengzhou.org/tags/TensorFlow/"/>
     
   </entry>
   
   <entry>
     <title>郑州GDG 每月周末聚会 第 5 期活动总结</title>
-    <link href="http://www.gdgzhengzhou.org/2018/02/Monthly_Weekend_Party_5/"/>
-    <id>http://www.gdgzhengzhou.org/2018/02/Monthly_Weekend_Party_5/</id>
+    <link href="http://blog.gdgzhengzhou.org/2018/02/Monthly_Weekend_Party_5/"/>
+    <id>http://blog.gdgzhengzhou.org/2018/02/Monthly_Weekend_Party_5/</id>
     <published>2018-02-04T10:00:00.000Z</published>
-    <updated>2019-02-13T14:29:27.078Z</updated>
+    <updated>2019-02-14T07:38:37.010Z</updated>
     
     <summary type="html">
     
@@ -97,21 +97,21 @@
     
     </summary>
     
-      <category term="Events" scheme="http://www.gdgzhengzhou.org/categories/Events/"/>
+      <category term="Events" scheme="http://blog.gdgzhengzhou.org/categories/Events/"/>
     
     
-      <category term="2018" scheme="http://www.gdgzhengzhou.org/tags/2018/"/>
+      <category term="2018" scheme="http://blog.gdgzhengzhou.org/tags/2018/"/>
     
-      <category term="周末聚会" scheme="http://www.gdgzhengzhou.org/tags/%E5%91%A8%E6%9C%AB%E8%81%9A%E4%BC%9A/"/>
+      <category term="周末聚会" scheme="http://blog.gdgzhengzhou.org/tags/%E5%91%A8%E6%9C%AB%E8%81%9A%E4%BC%9A/"/>
     
   </entry>
   
   <entry>
     <title>郑州GDG DevFest 2016活动总结</title>
-    <link href="http://www.gdgzhengzhou.org/2017/11/DevFest_2017/"/>
-    <id>http://www.gdgzhengzhou.org/2017/11/DevFest_2017/</id>
+    <link href="http://blog.gdgzhengzhou.org/2017/11/DevFest_2017/"/>
+    <id>http://blog.gdgzhengzhou.org/2017/11/DevFest_2017/</id>
     <published>2017-11-26T10:00:00.000Z</published>
-    <updated>2019-02-13T14:29:27.078Z</updated>
+    <updated>2019-02-14T07:38:37.010Z</updated>
     
     <summary type="html">
     
@@ -119,21 +119,21 @@
     
     </summary>
     
-      <category term="Events" scheme="http://www.gdgzhengzhou.org/categories/Events/"/>
+      <category term="Events" scheme="http://blog.gdgzhengzhou.org/categories/Events/"/>
     
     
-      <category term="DevFest" scheme="http://www.gdgzhengzhou.org/tags/DevFest/"/>
+      <category term="DevFest" scheme="http://blog.gdgzhengzhou.org/tags/DevFest/"/>
     
-      <category term="2017" scheme="http://www.gdgzhengzhou.org/tags/2017/"/>
+      <category term="2017" scheme="http://blog.gdgzhengzhou.org/tags/2017/"/>
     
   </entry>
   
   <entry>
     <title>郑州GDG 每月周末聚会 第 4 期活动总结</title>
-    <link href="http://www.gdgzhengzhou.org/2017/07/Monthly_Weekend_Party_4/"/>
-    <id>http://www.gdgzhengzhou.org/2017/07/Monthly_Weekend_Party_4/</id>
+    <link href="http://blog.gdgzhengzhou.org/2017/07/Monthly_Weekend_Party_4/"/>
+    <id>http://blog.gdgzhengzhou.org/2017/07/Monthly_Weekend_Party_4/</id>
     <published>2017-07-30T10:00:00.000Z</published>
-    <updated>2019-02-13T14:29:27.078Z</updated>
+    <updated>2019-02-14T07:38:37.010Z</updated>
     
     <summary type="html">
     
@@ -141,21 +141,21 @@
     
     </summary>
     
-      <category term="Events" scheme="http://www.gdgzhengzhou.org/categories/Events/"/>
+      <category term="Events" scheme="http://blog.gdgzhengzhou.org/categories/Events/"/>
     
     
-      <category term="2017" scheme="http://www.gdgzhengzhou.org/tags/2017/"/>
+      <category term="2017" scheme="http://blog.gdgzhengzhou.org/tags/2017/"/>
     
-      <category term="周末聚会" scheme="http://www.gdgzhengzhou.org/tags/%E5%91%A8%E6%9C%AB%E8%81%9A%E4%BC%9A/"/>
+      <category term="周末聚会" scheme="http://blog.gdgzhengzhou.org/tags/%E5%91%A8%E6%9C%AB%E8%81%9A%E4%BC%9A/"/>
     
   </entry>
   
   <entry>
     <title>郑州GDG I/O Extended 2017 活动总结</title>
-    <link href="http://www.gdgzhengzhou.org/2017/05/Google_IO_Extended_2017/"/>
-    <id>http://www.gdgzhengzhou.org/2017/05/Google_IO_Extended_2017/</id>
+    <link href="http://blog.gdgzhengzhou.org/2017/05/Google_IO_Extended_2017/"/>
+    <id>http://blog.gdgzhengzhou.org/2017/05/Google_IO_Extended_2017/</id>
     <published>2017-05-18T10:00:00.000Z</published>
-    <updated>2019-02-13T14:29:27.078Z</updated>
+    <updated>2019-02-14T07:38:37.010Z</updated>
     
     <summary type="html">
     
@@ -163,21 +163,21 @@
     
     </summary>
     
-      <category term="Events" scheme="http://www.gdgzhengzhou.org/categories/Events/"/>
+      <category term="Events" scheme="http://blog.gdgzhengzhou.org/categories/Events/"/>
     
     
-      <category term="2017" scheme="http://www.gdgzhengzhou.org/tags/2017/"/>
+      <category term="2017" scheme="http://blog.gdgzhengzhou.org/tags/2017/"/>
     
-      <category term="I/O Extended" scheme="http://www.gdgzhengzhou.org/tags/I-O-Extended/"/>
+      <category term="I/O Extended" scheme="http://blog.gdgzhengzhou.org/tags/I-O-Extended/"/>
     
   </entry>
   
   <entry>
     <title>Women Techmakers 2017@郑州GDG 活动总结</title>
-    <link href="http://www.gdgzhengzhou.org/2017/04/Women_Techmakers_2017/"/>
-    <id>http://www.gdgzhengzhou.org/2017/04/Women_Techmakers_2017/</id>
+    <link href="http://blog.gdgzhengzhou.org/2017/04/Women_Techmakers_2017/"/>
+    <id>http://blog.gdgzhengzhou.org/2017/04/Women_Techmakers_2017/</id>
     <published>2017-04-23T10:00:00.000Z</published>
-    <updated>2019-02-13T14:29:27.078Z</updated>
+    <updated>2019-02-14T07:38:37.010Z</updated>
     
     <summary type="html">
     
@@ -185,23 +185,23 @@
     
     </summary>
     
-      <category term="Events" scheme="http://www.gdgzhengzhou.org/categories/Events/"/>
+      <category term="Events" scheme="http://blog.gdgzhengzhou.org/categories/Events/"/>
     
     
-      <category term="2017" scheme="http://www.gdgzhengzhou.org/tags/2017/"/>
+      <category term="2017" scheme="http://blog.gdgzhengzhou.org/tags/2017/"/>
     
-      <category term="WTM" scheme="http://www.gdgzhengzhou.org/tags/WTM/"/>
+      <category term="WTM" scheme="http://blog.gdgzhengzhou.org/tags/WTM/"/>
     
-      <category term="IWD" scheme="http://www.gdgzhengzhou.org/tags/IWD/"/>
+      <category term="IWD" scheme="http://blog.gdgzhengzhou.org/tags/IWD/"/>
     
   </entry>
   
   <entry>
     <title>郑州 GDG Google Cloud Next 2017 Recap活动总结</title>
-    <link href="http://www.gdgzhengzhou.org/2017/03/Google_Cloud_Next_2017_Recap/"/>
-    <id>http://www.gdgzhengzhou.org/2017/03/Google_Cloud_Next_2017_Recap/</id>
+    <link href="http://blog.gdgzhengzhou.org/2017/03/Google_Cloud_Next_2017_Recap/"/>
+    <id>http://blog.gdgzhengzhou.org/2017/03/Google_Cloud_Next_2017_Recap/</id>
     <published>2017-03-26T10:00:00.000Z</published>
-    <updated>2019-02-13T14:29:27.078Z</updated>
+    <updated>2019-02-14T07:38:37.010Z</updated>
     
     <summary type="html">
     
@@ -209,21 +209,21 @@
     
     </summary>
     
-      <category term="Events" scheme="http://www.gdgzhengzhou.org/categories/Events/"/>
+      <category term="Events" scheme="http://blog.gdgzhengzhou.org/categories/Events/"/>
     
     
-      <category term="Google Cloud" scheme="http://www.gdgzhengzhou.org/tags/Google-Cloud/"/>
+      <category term="Google Cloud" scheme="http://blog.gdgzhengzhou.org/tags/Google-Cloud/"/>
     
-      <category term="2017" scheme="http://www.gdgzhengzhou.org/tags/2017/"/>
+      <category term="2017" scheme="http://blog.gdgzhengzhou.org/tags/2017/"/>
     
   </entry>
   
   <entry>
     <title>郑州 GDG TensorFlow Dev Summit 2017 Recap活动总结</title>
-    <link href="http://www.gdgzhengzhou.org/2017/02/TensorFlow_Dev_Summit_2017_Recap/"/>
-    <id>http://www.gdgzhengzhou.org/2017/02/TensorFlow_Dev_Summit_2017_Recap/</id>
+    <link href="http://blog.gdgzhengzhou.org/2017/02/TensorFlow_Dev_Summit_2017_Recap/"/>
+    <id>http://blog.gdgzhengzhou.org/2017/02/TensorFlow_Dev_Summit_2017_Recap/</id>
     <published>2017-02-26T10:00:00.000Z</published>
-    <updated>2019-02-13T14:29:27.078Z</updated>
+    <updated>2019-02-14T07:38:37.010Z</updated>
     
     <summary type="html">
     
@@ -231,21 +231,21 @@
     
     </summary>
     
-      <category term="Events" scheme="http://www.gdgzhengzhou.org/categories/Events/"/>
+      <category term="Events" scheme="http://blog.gdgzhengzhou.org/categories/Events/"/>
     
     
-      <category term="2017" scheme="http://www.gdgzhengzhou.org/tags/2017/"/>
+      <category term="2017" scheme="http://blog.gdgzhengzhou.org/tags/2017/"/>
     
-      <category term="TensorFlow" scheme="http://www.gdgzhengzhou.org/tags/TensorFlow/"/>
+      <category term="TensorFlow" scheme="http://blog.gdgzhengzhou.org/tags/TensorFlow/"/>
     
   </entry>
   
   <entry>
     <title>郑州 GDG TensorFlow 入门活动总结</title>
-    <link href="http://www.gdgzhengzhou.org/2016/12/TensorFlow_Getting_Start/"/>
-    <id>http://www.gdgzhengzhou.org/2016/12/TensorFlow_Getting_Start/</id>
+    <link href="http://blog.gdgzhengzhou.org/2016/12/TensorFlow_Getting_Start/"/>
+    <id>http://blog.gdgzhengzhou.org/2016/12/TensorFlow_Getting_Start/</id>
     <published>2016-12-18T10:00:00.000Z</published>
-    <updated>2019-02-13T14:29:27.078Z</updated>
+    <updated>2019-02-14T07:38:37.010Z</updated>
     
     <summary type="html">
     
@@ -253,21 +253,21 @@
     
     </summary>
     
-      <category term="Events" scheme="http://www.gdgzhengzhou.org/categories/Events/"/>
+      <category term="Events" scheme="http://blog.gdgzhengzhou.org/categories/Events/"/>
     
     
-      <category term="2016" scheme="http://www.gdgzhengzhou.org/tags/2016/"/>
+      <category term="2016" scheme="http://blog.gdgzhengzhou.org/tags/2016/"/>
     
-      <category term="TensorFlow" scheme="http://www.gdgzhengzhou.org/tags/TensorFlow/"/>
+      <category term="TensorFlow" scheme="http://blog.gdgzhengzhou.org/tags/TensorFlow/"/>
     
   </entry>
   
   <entry>
     <title>郑州GDG DevFest 2016活动总结</title>
-    <link href="http://www.gdgzhengzhou.org/2016/11/DevFest_2016/"/>
-    <id>http://www.gdgzhengzhou.org/2016/11/DevFest_2016/</id>
+    <link href="http://blog.gdgzhengzhou.org/2016/11/DevFest_2016/"/>
+    <id>http://blog.gdgzhengzhou.org/2016/11/DevFest_2016/</id>
     <published>2016-11-26T10:00:00.000Z</published>
-    <updated>2019-02-13T14:29:27.078Z</updated>
+    <updated>2019-02-14T07:38:37.010Z</updated>
     
     <summary type="html">
     
@@ -275,21 +275,21 @@
     
     </summary>
     
-      <category term="Events" scheme="http://www.gdgzhengzhou.org/categories/Events/"/>
+      <category term="Events" scheme="http://blog.gdgzhengzhou.org/categories/Events/"/>
     
     
-      <category term="DevFest" scheme="http://www.gdgzhengzhou.org/tags/DevFest/"/>
+      <category term="DevFest" scheme="http://blog.gdgzhengzhou.org/tags/DevFest/"/>
     
-      <category term="2016" scheme="http://www.gdgzhengzhou.org/tags/2016/"/>
+      <category term="2016" scheme="http://blog.gdgzhengzhou.org/tags/2016/"/>
     
   </entry>
   
   <entry>
     <title>郑州GDG每月小聚 第3期 活动总结</title>
-    <link href="http://www.gdgzhengzhou.org/2016/10/Monthly_Weekend_Party_3/"/>
-    <id>http://www.gdgzhengzhou.org/2016/10/Monthly_Weekend_Party_3/</id>
+    <link href="http://blog.gdgzhengzhou.org/2016/10/Monthly_Weekend_Party_3/"/>
+    <id>http://blog.gdgzhengzhou.org/2016/10/Monthly_Weekend_Party_3/</id>
     <published>2016-10-22T10:00:00.000Z</published>
-    <updated>2019-02-13T14:29:27.078Z</updated>
+    <updated>2019-02-14T07:38:37.010Z</updated>
     
     <summary type="html">
     
@@ -297,21 +297,21 @@
     
     </summary>
     
-      <category term="Events" scheme="http://www.gdgzhengzhou.org/categories/Events/"/>
+      <category term="Events" scheme="http://blog.gdgzhengzhou.org/categories/Events/"/>
     
     
-      <category term="2016" scheme="http://www.gdgzhengzhou.org/tags/2016/"/>
+      <category term="2016" scheme="http://blog.gdgzhengzhou.org/tags/2016/"/>
     
-      <category term="周末聚会" scheme="http://www.gdgzhengzhou.org/tags/%E5%91%A8%E6%9C%AB%E8%81%9A%E4%BC%9A/"/>
+      <category term="周末聚会" scheme="http://blog.gdgzhengzhou.org/tags/%E5%91%A8%E6%9C%AB%E8%81%9A%E4%BC%9A/"/>
     
   </entry>
   
   <entry>
     <title>郑州GDG 每月周末聚会 第2期活动总结</title>
-    <link href="http://www.gdgzhengzhou.org/2016/08/Monthly_Weekend_Party_2/"/>
-    <id>http://www.gdgzhengzhou.org/2016/08/Monthly_Weekend_Party_2/</id>
+    <link href="http://blog.gdgzhengzhou.org/2016/08/Monthly_Weekend_Party_2/"/>
+    <id>http://blog.gdgzhengzhou.org/2016/08/Monthly_Weekend_Party_2/</id>
     <published>2016-08-24T10:00:00.000Z</published>
-    <updated>2019-02-13T14:29:27.078Z</updated>
+    <updated>2019-02-14T07:38:37.010Z</updated>
     
     <summary type="html">
     
@@ -319,21 +319,21 @@
     
     </summary>
     
-      <category term="Events" scheme="http://www.gdgzhengzhou.org/categories/Events/"/>
+      <category term="Events" scheme="http://blog.gdgzhengzhou.org/categories/Events/"/>
     
     
-      <category term="2016" scheme="http://www.gdgzhengzhou.org/tags/2016/"/>
+      <category term="2016" scheme="http://blog.gdgzhengzhou.org/tags/2016/"/>
     
-      <category term="周末聚会" scheme="http://www.gdgzhengzhou.org/tags/%E5%91%A8%E6%9C%AB%E8%81%9A%E4%BC%9A/"/>
+      <category term="周末聚会" scheme="http://blog.gdgzhengzhou.org/tags/%E5%91%A8%E6%9C%AB%E8%81%9A%E4%BC%9A/"/>
     
   </entry>
   
   <entry>
     <title>Progressive Web App Dev Summit viewingparties 活动总结</title>
-    <link href="http://www.gdgzhengzhou.org/2016/07/Progressive_Web_App_Dev_Summit_viewingparties/"/>
-    <id>http://www.gdgzhengzhou.org/2016/07/Progressive_Web_App_Dev_Summit_viewingparties/</id>
+    <link href="http://blog.gdgzhengzhou.org/2016/07/Progressive_Web_App_Dev_Summit_viewingparties/"/>
+    <id>http://blog.gdgzhengzhou.org/2016/07/Progressive_Web_App_Dev_Summit_viewingparties/</id>
     <published>2016-07-10T10:00:00.000Z</published>
-    <updated>2019-02-13T14:29:27.078Z</updated>
+    <updated>2019-02-14T07:38:37.010Z</updated>
     
     <summary type="html">
     
@@ -341,23 +341,23 @@
     
     </summary>
     
-      <category term="Events" scheme="http://www.gdgzhengzhou.org/categories/Events/"/>
+      <category term="Events" scheme="http://blog.gdgzhengzhou.org/categories/Events/"/>
     
     
-      <category term="2016" scheme="http://www.gdgzhengzhou.org/tags/2016/"/>
+      <category term="2016" scheme="http://blog.gdgzhengzhou.org/tags/2016/"/>
     
-      <category term="PWA" scheme="http://www.gdgzhengzhou.org/tags/PWA/"/>
+      <category term="PWA" scheme="http://blog.gdgzhengzhou.org/tags/PWA/"/>
     
-      <category term="Web" scheme="http://www.gdgzhengzhou.org/tags/Web/"/>
+      <category term="Web" scheme="http://blog.gdgzhengzhou.org/tags/Web/"/>
     
   </entry>
   
   <entry>
     <title>郑州GDG I/O Redux 2016 活动总结</title>
-    <link href="http://www.gdgzhengzhou.org/2016/06/Google_IO_Redux_2016/"/>
-    <id>http://www.gdgzhengzhou.org/2016/06/Google_IO_Redux_2016/</id>
+    <link href="http://blog.gdgzhengzhou.org/2016/06/Google_IO_Redux_2016/"/>
+    <id>http://blog.gdgzhengzhou.org/2016/06/Google_IO_Redux_2016/</id>
     <published>2016-06-26T10:00:00.000Z</published>
-    <updated>2019-02-13T14:29:27.078Z</updated>
+    <updated>2019-02-14T07:38:37.010Z</updated>
     
     <summary type="html">
     
@@ -365,21 +365,21 @@
     
     </summary>
     
-      <category term="Events" scheme="http://www.gdgzhengzhou.org/categories/Events/"/>
+      <category term="Events" scheme="http://blog.gdgzhengzhou.org/categories/Events/"/>
     
     
-      <category term="2016" scheme="http://www.gdgzhengzhou.org/tags/2016/"/>
+      <category term="2016" scheme="http://blog.gdgzhengzhou.org/tags/2016/"/>
     
-      <category term="I/O Redux" scheme="http://www.gdgzhengzhou.org/tags/I-O-Redux/"/>
+      <category term="I/O Redux" scheme="http://blog.gdgzhengzhou.org/tags/I-O-Redux/"/>
     
   </entry>
   
   <entry>
     <title>郑州GDG I/O Extended 2016 活动总结</title>
-    <link href="http://www.gdgzhengzhou.org/2016/05/Google_IO_Extended_2016/"/>
-    <id>http://www.gdgzhengzhou.org/2016/05/Google_IO_Extended_2016/</id>
+    <link href="http://blog.gdgzhengzhou.org/2016/05/Google_IO_Extended_2016/"/>
+    <id>http://blog.gdgzhengzhou.org/2016/05/Google_IO_Extended_2016/</id>
     <published>2016-05-19T10:00:00.000Z</published>
-    <updated>2019-02-13T14:29:27.078Z</updated>
+    <updated>2019-02-14T07:38:37.010Z</updated>
     
     <summary type="html">
     
@@ -387,21 +387,21 @@
     
     </summary>
     
-      <category term="Events" scheme="http://www.gdgzhengzhou.org/categories/Events/"/>
+      <category term="Events" scheme="http://blog.gdgzhengzhou.org/categories/Events/"/>
     
     
-      <category term="2016" scheme="http://www.gdgzhengzhou.org/tags/2016/"/>
+      <category term="2016" scheme="http://blog.gdgzhengzhou.org/tags/2016/"/>
     
-      <category term="I/O Extended" scheme="http://www.gdgzhengzhou.org/tags/I-O-Extended/"/>
+      <category term="I/O Extended" scheme="http://blog.gdgzhengzhou.org/tags/I-O-Extended/"/>
     
   </entry>
   
   <entry>
     <title>郑州 GDG 每月周末聚会#第1期活动总结</title>
-    <link href="http://www.gdgzhengzhou.org/2016/04/Monthly_Weekend_Party_1/"/>
-    <id>http://www.gdgzhengzhou.org/2016/04/Monthly_Weekend_Party_1/</id>
+    <link href="http://blog.gdgzhengzhou.org/2016/04/Monthly_Weekend_Party_1/"/>
+    <id>http://blog.gdgzhengzhou.org/2016/04/Monthly_Weekend_Party_1/</id>
     <published>2016-04-24T10:00:00.000Z</published>
-    <updated>2019-02-13T14:29:27.078Z</updated>
+    <updated>2019-02-14T07:38:37.010Z</updated>
     
     <summary type="html">
     
@@ -409,21 +409,21 @@
     
     </summary>
     
-      <category term="Events" scheme="http://www.gdgzhengzhou.org/categories/Events/"/>
+      <category term="Events" scheme="http://blog.gdgzhengzhou.org/categories/Events/"/>
     
     
-      <category term="2016" scheme="http://www.gdgzhengzhou.org/tags/2016/"/>
+      <category term="2016" scheme="http://blog.gdgzhengzhou.org/tags/2016/"/>
     
-      <category term="周末聚会" scheme="http://www.gdgzhengzhou.org/tags/%E5%91%A8%E6%9C%AB%E8%81%9A%E4%BC%9A/"/>
+      <category term="周末聚会" scheme="http://blog.gdgzhengzhou.org/tags/%E5%91%A8%E6%9C%AB%E8%81%9A%E4%BC%9A/"/>
     
   </entry>
   
   <entry>
     <title>Study Jams 1A 课程答疑及 Cardboard 介绍活动总结</title>
-    <link href="http://www.gdgzhengzhou.org/2016/04/Study_Jams_1A&amp;Cardboard/"/>
-    <id>http://www.gdgzhengzhou.org/2016/04/Study_Jams_1A&amp;Cardboard/</id>
+    <link href="http://blog.gdgzhengzhou.org/2016/04/Study_Jams_1A&amp;Cardboard/"/>
+    <id>http://blog.gdgzhengzhou.org/2016/04/Study_Jams_1A&amp;Cardboard/</id>
     <published>2016-04-01T10:00:00.000Z</published>
-    <updated>2019-02-13T14:29:27.078Z</updated>
+    <updated>2019-02-14T07:38:37.010Z</updated>
     
     <summary type="html">
     
@@ -431,23 +431,23 @@
     
     </summary>
     
-      <category term="Events" scheme="http://www.gdgzhengzhou.org/categories/Events/"/>
+      <category term="Events" scheme="http://blog.gdgzhengzhou.org/categories/Events/"/>
     
     
-      <category term="2016" scheme="http://www.gdgzhengzhou.org/tags/2016/"/>
+      <category term="2016" scheme="http://blog.gdgzhengzhou.org/tags/2016/"/>
     
-      <category term="Android" scheme="http://www.gdgzhengzhou.org/tags/Android/"/>
+      <category term="Android" scheme="http://blog.gdgzhengzhou.org/tags/Android/"/>
     
-      <category term="Study Jams" scheme="http://www.gdgzhengzhou.org/tags/Study-Jams/"/>
+      <category term="Study Jams" scheme="http://blog.gdgzhengzhou.org/tags/Study-Jams/"/>
     
   </entry>
   
   <entry>
     <title>Study Jams 活动宣讲及参与组队活动总结</title>
-    <link href="http://www.gdgzhengzhou.org/2016/03/Study_Jams_PUB&amp;Team/"/>
-    <id>http://www.gdgzhengzhou.org/2016/03/Study_Jams_PUB&amp;Team/</id>
+    <link href="http://blog.gdgzhengzhou.org/2016/03/Study_Jams_PUB&amp;Team/"/>
+    <id>http://blog.gdgzhengzhou.org/2016/03/Study_Jams_PUB&amp;Team/</id>
     <published>2016-03-31T10:00:00.000Z</published>
-    <updated>2019-02-13T14:29:27.078Z</updated>
+    <updated>2019-02-14T07:38:37.010Z</updated>
     
     <summary type="html">
     
@@ -455,14 +455,14 @@
     
     </summary>
     
-      <category term="Events" scheme="http://www.gdgzhengzhou.org/categories/Events/"/>
+      <category term="Events" scheme="http://blog.gdgzhengzhou.org/categories/Events/"/>
     
     
-      <category term="2016" scheme="http://www.gdgzhengzhou.org/tags/2016/"/>
+      <category term="2016" scheme="http://blog.gdgzhengzhou.org/tags/2016/"/>
     
-      <category term="Android" scheme="http://www.gdgzhengzhou.org/tags/Android/"/>
+      <category term="Android" scheme="http://blog.gdgzhengzhou.org/tags/Android/"/>
     
-      <category term="Study Jams" scheme="http://www.gdgzhengzhou.org/tags/Study-Jams/"/>
+      <category term="Study Jams" scheme="http://blog.gdgzhengzhou.org/tags/Study-Jams/"/>
     
   </entry>
   
