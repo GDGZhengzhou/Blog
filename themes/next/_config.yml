@@ -142,8 +142,8 @@ menu:
   tags: /tags/ || tags
   categories: /categories/ || th
   archives: /archives/ || archive
+  help: /help/ || info
   people: /people/ || users
-  #help: /help/ || info
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
@@ -178,12 +178,12 @@ site_state: true
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
-  #GitHub: https://github.com/orgs/GDGZhengzhou/teams || github
+  GitHub: https://github.com/orgs/GDGZhengzhou/teams || github
   Meetup: https://meetup.com/gdg-zhengzhou || meetup
   E-Mail: mailto:zhengzhougdg@gmail.com || envelope
-  #Weibo: https://weibo.com/yourname || weibo
-  #Google: https://plus.google.com/yourname || google
-  #Twitter: https://twitter.com/yourname || twitter
+  Weibo: https://weibo.com/zzgdg || weibo
+  Google: https://plus.google.com/107301871993224629566 || google
+  Twitter: https://twitter.com/gdgzhengzhou || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
   #VK Group: https://vk.com/yourname || vk
   #StackOverflow: https://stackoverflow.com/yourname || stack-overflow

@@ -9,11 +9,11 @@ date: 2019-02-13 16:21:56
 
 事务类型 | 表单链接 | 用途说明
 ------------ | ------------- | -------------
-志愿者申请 | [VAF]() | 
-讲师申请 | [IAF]() | 
-长期场地赞助 | [VSF]() | 
-活动赞助 | [ESF]() | 
-活动反馈 | [AFF]() | 
+志愿者申请 | [志愿者申请表单(VAF)](https://form.chinagdg.org/forms/d/e/1FAIpQLSdqIiXePjDRx4KfjUZ5sBdl1bE2PoV535FYnhX-OqneLTpgGg/viewform?usp=sf_link) | 若你希望加入我们，成为 GDG Zhengzhou 志愿者的一份子，请填写此表单
+讲师申请 | [讲师申请表单(IAF)](https://form.chinagdg.org/forms/d/e/1FAIpQLScY7bMzyWO9tDxeIgvn1mmXJqPiudRaYbQRyLaEVI5zHdvepg/viewform?usp=sf_link) | 若你希望在 GDG Zhengzhou 的活动现场进行讲演，请填写此表单
+长期场地赞助 | [长期场地赞助表单(VSF)](https://form.chinagdg.org/forms/d/e/1FAIpQLSdPE2Cuw8zc-MRgYqutMad6VjsOqUYb4d0nW93WA-_Ndpq9Sw/viewform?usp=sf_link) | 若你希望长期为 GDG Zhengzhou 赞助活动场地，请填写此表单
+活动赞助 | [活动赞助表单(ESF)](https://form.chinagdg.org/forms/d/e/1FAIpQLSemiAYjQsXDjA3fCMcxYWx6ELIZOXVMdwQa6FvMeX2FWOg79Q/viewform?usp=sf_link) | 若你希望单次赞助 GDG Zhengzhou 的某类活动，请填写此表单
+活动反馈 | [活动反馈表单(AFF)](https://form.chinagdg.org/forms/d/e/1FAIpQLSeRREcx7Tbp2xPrkO1uV8L8PqBBFelTYA7FOLib54tfhkoP7A/viewform?usp=sf_link) | 若你希望对 GDG Zhengzhou 的活动进行反馈，请填写此表单
 
 ### 其他事务
 我们目前在多个社交网络有注册账号，包括但不仅限于 [Twitter](https://twitter.com/gdgzhengzhou), [Weibo](https://weibo.com/zzgdg)，但受限于志愿者的空闲时间，在 SNS 中的留言及私信有大概率不会在短时间内回复，如果你希望在第一时间联系到我们，请发邮件至 [GDG Zhengzhou](mailto:zhengzhougdg@gmail.com)，我们会在两个自然日内做出回复。
@@ -24,6 +24,9 @@ date: 2019-02-13 16:21:56
 - 有需要组织化的文本或附带文件/图片的建议和反馈
 - 未包含在 [特定事务](#特定事务) 列表内的事项
 
+### 直接联络
+若你有非常紧急、重要的事务需要与我们取得联系，或以上渠道在48小时内均未获得反馈时，请前往志愿者页面获取组织者的私人联系方式。
+
 ## 参与活动
 
 在 GDG Zhengzhou 成立之初，与全球其他 GDG 社区一样，我们会在 [Google Plus](https://plus.google.com/+GDGZhengzhou) 发布活动信息、收集报名、发布活动总结。但受限于 [Google Plus 的安全问题](https://www.blog.google/technology/safety-security/expediting-changes-google-plus/)，我们现在与全球其他社区一样，转移到了 [Meetup](https://www.meetup.com/gdg-zhengzhou/)，现在所有的活动信息均会在第一时间在 Meetup 上发布、收集报名，我们推荐你注册 Meetup 并关注 GDG Zhengzhou，以确保你会在第一时间收到我们的活动通知。
@@ -31,7 +34,7 @@ date: 2019-02-13 16:21:56
 ### 微信
 考虑到各个国家用户的使用习惯，各地均会在 Meetup 平台外的本地平台发布活动通知，微信在中国被广泛使用，因此我们也注册了微信公众账号，我们主要会在公众号内发布活动通知、活动总结以及一些技术分享，你可以扫描以下二维码关注我们。
 
-<!-- ![](https://i.loli.net/2019/02/13/5c63e3652c89e.jpg) -->
+![](https://i.loli.net/2019/02/13/5c63e3652c89e.jpg)
 
 但受限于微信公众平台的繁琐操作，一些较小的活动在公众号上不会及时通知，还是希望你通过 [Meetup](https://www.meetup.com/gdg-zhengzhou/) 关注我们，可以保证第一时间接收到活动通知。
 
@@ -41,8 +44,23 @@ date: 2019-02-13 16:21:56
 ### 大型活动
 活动状态 | 发布渠道 | 发布时效
 ------------- | ------------- | -------------
-开始前宣传 | 
- | | 
+开始前宣传 | Meetup、微信、SNS | 同步进行
+活动报名 | Google Form | -
+活动总结 | 微信、官方网站、官方博客 | 同步进行
+
+### CODE活动
+活动状态 | 发布渠道 | 发布时效
+------------- | ------------- | -------------
+开始前宣传 | Meetup、微信、SNS | Meetup、微信为主，SNS 不会及时更新
+活动报名 | Meetup | -
+活动总结 | 微信、官方网站、官方博客 | 同步进行
+
+### Meetup
+活动状态 | 发布渠道 | 发布时效
+------------- | ------------- | -------------
+开始前宣传 | Meetup、微信 | Meetup为主，微信不会及时更新
+活动报名 | Meetup | -
+活动总结 | 微信、官方网站、官方博客 | 同步进行
 
 
 
