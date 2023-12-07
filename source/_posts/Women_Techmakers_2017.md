@@ -2,14 +2,13 @@
 title: Women Techmakers 2017@郑州GDG 活动总结
 date: 2017-04-23 18:00:00
 categories: Events
-description: 今年的 WTM 女性开发者大会主题是 Telling our story，郑州 GDG 通过定向邀请以及公开招募的方式邀请了四位互联网领域优秀的女性从业者来分享她们的故事。
 tags:
   - WTM
   - IWD
   - 2017
 ---
 
-![img](http://ww4.sinaimg.cn/large/006tKfTcgy1feiy1ovj9pj30lc0e7793.jpg)
+![](http://ww4.sinaimg.cn/large/006tKfTcgy1feiy1ovj9pj30lc0e7793.jpg)
 
 活动时间：4月23日(周日)下午1:00 - 5:00
 
@@ -26,11 +25,13 @@ Women Techmakers 简称 WTM，谷歌女性开发者大会。该项目由 Google 
 
 今年的 WTM 女性开发者大会主题是 Telling our story，郑州 GDG 通过定向邀请以及公开招募的方式邀请了四位互联网领域优秀的女性从业者来分享她们的故事。
 
+<!-- more -->
+
 在活动开始前，首先由郑州 GDG 的负责人张会超对 GDG 和 WTM 进行了简单介绍以及如何加入 GDG，并简单回顾了郑州以往举办过的活动情况。之后是分享嘉宾的相关主题的分享，这次分享嘉宾主要围绕女性开发者、管理者和创业者这三块做相关主题的分享。第一位分享嘉宾来自约克动漫的闫丹，她目前是约克动漫互联网事业部总经理，主要负责加拿大第一中文网站约克论坛。她以「让我们相逢在更高处」为主题分享自己工作、生活和职场经验和建议；第二位分享嘉宾来自信大捷安的 Android 开发工程师郭雅欣，她以「很远的路，我们慢慢走」分享了自己如何从初级程序员如何一步一步进阶为高级工程师的经历；第三位分享的嘉宾王燕是一名女性创业者，她以「一个不爱说话的小老板的创业故事」为主题分享了自己的创业经历以及一些在创业过程中有趣的事；第四位分享乌龙明月之前是一位职业品酒师，现在是一名 Ruby 全栈工程师，她以「多维成长 全栈人生」为主题分享了自己是如何从一名职业品酒师转型为一名 Ruby 全栈工程师的经历，以及自己转型过程中的经验和心得。
 
 在线直播情况
 
-![img](http://ww3.sinaimg.cn/large/006tNc79ly1ff0zzo5gn9j30jg0fbgmx.jpg)
+![](http://ww3.sinaimg.cn/large/006tNc79ly1ff0zzo5gn9j30jg0fbgmx.jpg)
 
 活动剪辑视频
 
@@ -42,15 +43,15 @@ Women Techmakers 简称 WTM，谷歌女性开发者大会。该项目由 Google 
 
 嘉宾分享
 
-![img](http://ww3.sinaimg.cn/large/006tNc79ly1ff0i06at49j30zk0nq3zp.jpg)
+![](http://ww3.sinaimg.cn/large/006tNc79ly1ff0i06at49j30zk0nq3zp.jpg)
 
 茶歇
 
 嘉宾分享
 
-![img](http://ww3.sinaimg.cn/large/006tNc79ly1ff0i0fkmvsj31kw11xqv8.jpg)
+![](http://ww3.sinaimg.cn/large/006tNc79ly1ff0i0fkmvsj31kw11xqv8.jpg)
 
-![img](http://ww1.sinaimg.cn/large/006tNc79ly1ff0i06ltzsj30zk0nqacf.jpg)
+![](http://ww1.sinaimg.cn/large/006tNc79ly1ff0i06ltzsj30zk0nqacf.jpg)
 
 全体大合影
 

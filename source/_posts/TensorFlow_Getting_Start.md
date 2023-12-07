@@ -2,7 +2,6 @@
 title: 郑州 GDG TensorFlow 入门活动总结
 date: 2016-12-18 18:00:00
 categories: Events
-description: GDG 郑州 2016 年的最后一场活动在上上周末落下了帷幕。 此次活动，Google Brain 工程师周玥枫带我们一起走进 TensorFlow 的世界，让我们一同来回顾一下吧。
 tags:
   - TensorFlow
   - 2016
@@ -26,6 +25,8 @@ tags:
 
 GDG 郑州 2016 年的最后一场活动在上上周末落下了帷幕。 此次活动，Google Brain 工程师周玥枫带我们一起走进 TensorFlow 的世界，让我们一同来回顾一下吧。
 
+<!-- more -->
+
 ---
 
 **TensorFlow**
@@ -36,7 +37,7 @@ TensorFlow 最初由 Google Brain 的研究员和工程师们开发出来，用�
 
 **讲师**
 
-**![img](https://uc0.chinagdg.com/attachment/forum/201612/31/214121n5rno8n66f158onz.png)**
+![](https://uc0.chinagdg.com/attachment/forum/201612/31/214121n5rno8n66f158onz.png)**
 
 **Google Brain 工程师, 参与 TensorFlow 开发。曾在谷歌广告的基础架构组工作，主导和参与了索引机器学习模型的项目。致力于分布式系统、云计算、大规模机器学习系统的开发和优化。硕士毕业于卡耐基梅隆大学，本科毕业于苏州大学计算机科学与技术学院。**
 
@@ -44,13 +45,21 @@ TensorFlow 最初由 Google Brain 的研究员和工程师们开发出来，用�
 
 本次活动采用现场直播的方式观看苏州GDG TensorFlow 入门活动，并与苏州GDG互动。
 
-![img](https://uc0.chinagdg.com/attachment/forum/201612/31/214101odeqqetkiiz7c7zi.jpg)![img](https://uc0.chinagdg.com/attachment/forum/201612/31/214103h5dcxlkrxnkrk0do.jpg)![img](https://uc0.chinagdg.com/attachment/forum/201612/31/214104ctgi04154zx8btb7.jpg)![img](https://uc0.chinagdg.com/attachment/forum/201612/31/214104gv9scnhbt9rnntck.jpg)![img](https://uc0.chinagdg.com/attachment/forum/201612/31/214104rv7vs0vns2zad0s7.jpg)
+![](https://uc0.chinagdg.com/attachment/forum/201612/31/214101odeqqetkiiz7c7zi.jpg)
+
+![](https://uc0.chinagdg.com/attachment/forum/201612/31/214103h5dcxlkrxnkrk0do.jpg)
+
+![](https://uc0.chinagdg.com/attachment/forum/201612/31/214104ctgi04154zx8btb7.jpg)
+
+![](https://uc0.chinagdg.com/attachment/forum/201612/31/214104gv9scnhbt9rnntck.jpg)
+
+![](https://uc0.chinagdg.com/attachment/forum/201612/31/214104rv7vs0vns2zad0s7.jpg)
 
 **PPT 链接：https://github.com/GDGZhengzhou/Events/tree/master/TensorFlow**   （长按复制链接或点击阅读原文即可）
 
 场地提供方： 蓝踪旅行
 
-![img](https://uc0.chinagdg.com/attachment/forum/201612/31/214135y7lp7hmlmjujtlm8.jpg)
+![](https://uc0.chinagdg.com/attachment/forum/201612/31/214135y7lp7hmlmjujtlm8.jpg)
 
 感谢大家对 郑州GDG 的关注，我们明年见！
 

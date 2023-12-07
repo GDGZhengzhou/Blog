@@ -2,15 +2,12 @@
 title: 2018 TensorFlow DevSummit Viewing Party 活动总结
 date: 2018-04-01 18:00:00
 categories: Events
-description: 我们邀请了一位社区成员分享他在TensorFlow 技术的实际应用，并与大家就技术的学习与应用问题展开了讨论，期间，他向我们展示了部分Demo代码并对关键部分进行了讲解。
 tags:
   - TensorFlow
   - 2018
 ---
 
 4月1日，郑州GDG社区顺利完成了TensorFlow DevSummit Viewing Party
-
-
 
 活动在金水区健康路与优胜北路交叉口上都国际一楼通幽咖啡(原花叙咖啡)顺利举行，在观看完TensorFlow Dev Summit 2018 Keynote 后，我们邀请了一位社区成员分享他在TensorFlow 技术的实际应用，并与大家就技术的学习与应用问题展开了讨论，期间，他向我们展示了部分Demo代码并对关键部分进行了讲解。
 
@@ -59,27 +56,27 @@ tags:
 
 
 
-![签到](https://secure.meetupstatic.com/photos/event/3/9/0/6/highres_469814598.jpeg)
+![](https://secure.meetupstatic.com/photos/event/3/9/0/6/highres_469814598.jpeg)
 
 *签到*
 
-![开场介绍](https://secure.meetupstatic.com/photos/event/3/8/f/5/highres_469814581.jpeg)
+![](https://secure.meetupstatic.com/photos/event/3/8/f/5/highres_469814581.jpeg)
 
 *开场介绍*
 
-![观看视频](https://secure.meetupstatic.com/photos/event/3/8/b/d/highres_469814525.jpeg)
+![](https://secure.meetupstatic.com/photos/event/3/8/b/d/highres_469814525.jpeg)
 
 *观看视频*
 
-![成员分享](https://secure.meetupstatic.com/photos/event/3/9/0/2/highres_469814594.jpeg)
+![](https://secure.meetupstatic.com/photos/event/3/9/0/2/highres_469814594.jpeg)
 
 *成员分享*
 
-![参与讨论](https://secure.meetupstatic.com/photos/event/3/8/c/5/highres_469814533.jpeg)
+![](https://secure.meetupstatic.com/photos/event/3/8/c/5/highres_469814533.jpeg)
 
 *参与讨论*
 
-![合影](https://secure.meetupstatic.com/photos/event/3/9/1/5/highres_469814613.jpeg)
+![](https://secure.meetupstatic.com/photos/event/3/9/1/5/highres_469814613.jpeg)
 
 *合影*
 

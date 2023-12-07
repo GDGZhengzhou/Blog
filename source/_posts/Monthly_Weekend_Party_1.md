@@ -2,7 +2,6 @@
 title: 郑州 GDG 每月周末聚会#第1期活动总结
 date: 2016-04-24 18:00:00
 categories: Events
-description: 本次活动是郑州GDG2016年的第二次活动，同时也是每月周末聚会的第二次活动，活动开始后，主持人首先跟大家介绍了GDG以及郑州GDG的相关情况，之后是VR BY Google话题，和Tilt Brush VR绘画软件体验活动。活动现场气氛热烈，大家对Tilt Brush VR绘画很感兴趣，以后试情况再举办VR绘画体验活动。
 tags:
   - 周末聚会
   - 2016
@@ -13,6 +12,8 @@ tags:
 **报名人数：** 25人<br>
 **参加人数：** 25人<br>
 **G+ Event：**<https://plus.google.com/u/0/events/cdh7t19umu21baaasfktnh53aqk>
+
+<!-- more -->
 
 **活动安排：**
 - 13:30 - 14:00 签到
@@ -37,6 +38,6 @@ tags:
 更多活动照片：[https://plus.google.com/events/g ... asfktnh53aqk?sort=1](https://plus.google.com/events/gallery/cdh7t19umu21baaasfktnh53aqk?sort=1)
 
 
-![IMG_20160424_142320.jpg](https://uc0.chinagdg.com/attachment/forum/201604/28/132512zvtt0t6pm0xvvdx2.jpg)
-![676641758479847462.jpg](https://uc0.chinagdg.com/attachment/forum/201604/28/132524wzfxjo3ooo33wfft.jpg)
-![New Sketch_01.png](https://uc0.chinagdg.com/attachment/forum/201604/28/132551xw3wez6c3jvaeiwc.png)
+![](https://uc0.chinagdg.com/attachment/forum/201604/28/132512zvtt0t6pm0xvvdx2.jpg)
+![](https://uc0.chinagdg.com/attachment/forum/201604/28/132524wzfxjo3ooo33wfft.jpg)
+![](https://uc0.chinagdg.com/attachment/forum/201604/28/132551xw3wez6c3jvaeiwc.png)

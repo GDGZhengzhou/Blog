@@ -2,7 +2,6 @@
 title: 郑州 GDG Google Cloud Next 2017 Recap活动总结
 date: 2017-03-26 18:00:00
 categories: Events
-description: 由 Google 主办，为期三天的 Cloud Next 云计算大会将于3月8日至10日在美国旧金山召开，本次大会主题包括大数据和机器学习、应用开发、基础架构构建、协作与生产力、移动设备及移动生态、物联网构建、构建安全智能的业务平台等。大会请来了Google CEO在内的重磅嘉宾，200多场演讲，三天的门票为$ 1,499美元。我们郑州GDG将组织大家回看大会中的精彩演讲，并进行简单演示。
 tags:
   - Google Cloud
   - 2017
@@ -10,7 +9,13 @@ tags:
 
 ### 活动信息
 
-由 Google 主办，为期三天的 Cloud Next 云计算大会将于3月8日至10日在美国旧金山召开，本次大会主题包括大数据和机器学习、应用开发、基础架构构建、协作与生产力、移动设备及移动生态、物联网构建、构建安全智能的业务平台等。大会请来了Google CEO在内的重磅嘉宾，200多场演讲，三天的门票为$ 1,499美元。我们郑州GDG将组织大家回看大会中的精彩演讲，并进行简单演示。 ![img](http://ww3.sinaimg.cn/large/006tKfTcly1fe0g1yal7sj30m80knk4r.jpg)大会的演讲者包括 Google 母公司 Alphabet 董事长 Eric Schmidt、Google CEO Sundar Pichai、Google Cloud AI&ML 首席科学家李飞飞等。更多演讲者和议程见： <https://cloudnext.withgoogle.com/>
+由 Google 主办，为期三天的 Cloud Next 云计算大会将于3月8日至10日在美国旧金山召开，本次大会主题包括大数据和机器学习、应用开发、基础架构构建、协作与生产力、移动设备及移动生态、物联网构建、构建安全智能的业务平台等。大会请来了Google CEO在内的重磅嘉宾，200多场演讲，三天的门票为$ 1,499美元。我们郑州GDG将组织大家回看大会中的精彩演讲，并进行简单演示。 
+
+![](http://ww3.sinaimg.cn/large/006tKfTcly1fe0g1yal7sj30m80knk4r.jpg)
+
+大会的演讲者包括 Google 母公司 Alphabet 董事长 Eric Schmidt、Google CEO Sundar Pichai、Google Cloud AI&ML 首席科学家李飞飞等。更多演讲者和议程见： <https://cloudnext.withgoogle.com/>
+
+<!-- more -->
 
 Google Cloud Next 大会是将 Google Cloud 开发者、企业用户、客户、合作伙伴及 Google 高管和工程师聚集起来，共同构建云计算未来的一场盛会。首届 Cloud Next 大会于2016年3月23日在旧金山召开。
 
@@ -23,7 +28,35 @@ Google Cloud Next 大会是将 Google Cloud 开发者、企业用户、客户、
 
 **活动照片**
 
-活动礼品： 本次活动礼品包含Android 小玩偶，Cloud冰箱贴，纪念T恤以及贴纸 ![img](http://ww4.sinaimg.cn/large/006tKfTcly1fe0froky3gj31kw16ohcq.jpg)介绍本次Cloud大会： 活动主持者张会超对这次大会的不同主题进行的简单介绍 ![img](http://ww1.sinaimg.cn/large/006tKfTcly1fe0fsk6h6tj31kw16o1kx.jpg)![img](http://ww2.sinaimg.cn/large/006tKfTcly1fe0fs9gdiwj31kw16o1kx.jpg)![img](http://ww1.sinaimg.cn/large/006tKfTcly1fe0frxugiyj31kw16o1kx.jpg)观看视频： 观看了Introduction to container development in Google Cloud Platform、Google Cloud Next '17 - Day 1 Keynote以及API Design and What's new with Open API ![img](http://ww2.sinaimg.cn/large/006tKfTcly1fe0fqwomtej31kw16ob26.jpg)![img](http://ww4.sinaimg.cn/large/006tKfTcly1fe0fqhtkw5j31kw16o4qp.jpg)![img](http://ww4.sinaimg.cn/large/006tKfTcly1fe0fq1xg4uj31kw16o1kx.jpg)简单演示： 组织者张会超简单演示了Add-ons插件使用以及Google Apps Script ![img](http://ww3.sinaimg.cn/large/006tKfTcly1fe0fr4tdg5j31kw16o1kx.jpg)![img](http://ww2.sinaimg.cn/large/006tKfTcly1fe0frh63c3j31kw16o4qp.jpg)合影留念 ![img](http://ww1.sinaimg.cn/large/006tKfTcly1fe0foxq8naj31kw16o1kx.jpg)
+活动礼品： 本次活动礼品包含Android 小玩偶，Cloud冰箱贴，纪念T恤以及贴纸 
+
+![](http://ww4.sinaimg.cn/large/006tKfTcly1fe0froky3gj31kw16ohcq.jpg)
+
+介绍本次Cloud大会： 活动主持者张会超对这次大会的不同主题进行的简单介绍 
+
+![](http://ww1.sinaimg.cn/large/006tKfTcly1fe0fsk6h6tj31kw16o1kx.jpg)
+
+![](http://ww2.sinaimg.cn/large/006tKfTcly1fe0fs9gdiwj31kw16o1kx.jpg)
+
+![](http://ww1.sinaimg.cn/large/006tKfTcly1fe0frxugiyj31kw16o1kx.jpg)
+
+观看视频： 观看了Introduction to container development in Google Cloud Platform、Google Cloud Next '17 - Day 1 Keynote以及API Design and What's new with Open API 
+
+![](http://ww2.sinaimg.cn/large/006tKfTcly1fe0fqwomtej31kw16ob26.jpg)
+
+![](http://ww4.sinaimg.cn/large/006tKfTcly1fe0fqhtkw5j31kw16o4qp.jpg)
+
+![](http://ww4.sinaimg.cn/large/006tKfTcly1fe0fq1xg4uj31kw16o1kx.jpg)
+
+简单演示： 组织者张会超简单演示了Add-ons插件使用以及Google Apps Script 
+
+![](http://ww3.sinaimg.cn/large/006tKfTcly1fe0fr4tdg5j31kw16o1kx.jpg)
+
+![](http://ww2.sinaimg.cn/large/006tKfTcly1fe0frh63c3j31kw16o4qp.jpg)
+
+合影留念 
+
+![](http://ww1.sinaimg.cn/large/006tKfTcly1fe0foxq8naj31kw16o1kx.jpg)
 
 有用的 Link
 

@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: icarus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -100,8 +100,3 @@ symbols_count_time:
   time: false   # 估算单篇文章阅读时间
   total_symbols: true  # 统计站点总字数
   total_time: false  # 估算站点总阅读时间
-
-# Security
-## https://github.com/MikeCoder/hexo-blog-encrypt
-encrypt:
-    enable: true

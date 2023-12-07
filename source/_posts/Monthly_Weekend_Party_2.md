@@ -2,7 +2,6 @@
 title: 郑州GDG 每月周末聚会 第2期活动总结
 date: 2016-08-24 18:00:00
 categories: Events
-description: 本次活动我们邀请到了在 Google Play 拥有千万级下载量的 Android 应用项目团队的工程师来分享他们在这Android Wear 和 Firebase 方面的一些经验。
 tags:
   - 周末聚会
   - 2016
@@ -14,6 +13,8 @@ Firebase 也是今年 I/O 大会的重点之一，并在 I/O 上发布了大量�
 
 本次活动我们邀请到了在 Google Play 拥有千万级下载量的 Android 应用项目团队的工程师来分享他们在这Android Wear 和 Firebase 方面的一些经验。
 
+<!-- more -->
+
 - 活动时间：8月28日 下午 13:30 - 17:00
 - 活动地点：郑州市金水区鑫苑路河南信息工程学校教学楼107室
 - 活动人数：报名45人，实际参加24人，其中女生2人
@@ -23,67 +24,67 @@ Firebase 也是今年 I/O 大会的重点之一，并在 I/O 上发布了大量�
 
 *下午 1:30 左右大家陆续来到活动场地*
 
-![img](http://ww3.sinaimg.cn/large/8a41f469gw1f7bxgixsarj21kw11xk4b.jpg)
+![](http://ww3.sinaimg.cn/large/8a41f469gw1f7bxgixsarj21kw11xk4b.jpg)
 
-![img](http://ww3.sinaimg.cn/large/8a41f469gw1f7bxp3ggqqj21kw11xqgn.jpg)
+![](http://ww3.sinaimg.cn/large/8a41f469gw1f7bxp3ggqqj21kw11xqgn.jpg)
 
 
 *通报名表了解到部分小伙伴还没有加入GDG，对GDG也不是很了解，就首先给大家简单介绍了一下GDG以及郑州GDG目前的一些情况，如何加入GDG等等*
 
-![img](http://ww2.sinaimg.cn/large/8a41f469gw1f7ctwzlzagj21kw11x4e2.jpg)
+![](http://ww2.sinaimg.cn/large/8a41f469gw1f7ctwzlzagj21kw11x4e2.jpg)
 
 
 *之后是第一位分享嘉宾，分享关于如何开发 Android Wear 应用相关的话题*
 
-![img](http://ww1.sinaimg.cn/large/8a41f469gw1f7bxnr3eggj21kw11xk51.jpg)
+![](http://ww1.sinaimg.cn/large/8a41f469gw1f7bxnr3eggj21kw11xk51.jpg)
 
-![img](http://ww2.sinaimg.cn/large/8a41f469gw1f7bxslee27j21kw11xwha.jpg)
+![](http://ww2.sinaimg.cn/large/8a41f469gw1f7bxslee27j21kw11xwha.jpg)
 
 
 *第一个分享话题结束后是简单的茶歇时间，组织者们为大家准备了丰富的茶歇食物，其中还有 Nougat 哦，大家边吃边聊*
 
-![img](http://ww3.sinaimg.cn/large/8a41f469gw1f7bxl10ql8j20qo0zkwga.jpg)
+![](http://ww3.sinaimg.cn/large/8a41f469gw1f7bxl10ql8j20qo0zkwga.jpg)
 
-![img](http://ww4.sinaimg.cn/large/8a41f469gw1f7bxlczq4pj20qo0zkac6.jpg)
+![](http://ww4.sinaimg.cn/large/8a41f469gw1f7bxlczq4pj20qo0zkac6.jpg)
 
-![img](http://ww4.sinaimg.cn/large/8a41f469gw1f7bxlkmtcnj20zk0qowic.jpg)
+![](http://ww4.sinaimg.cn/large/8a41f469gw1f7bxlkmtcnj20zk0qowic.jpg)
 
-![img](http://ww3.sinaimg.cn/large/8a41f469gw1f7bxltqxctj20qo0zk41g.jpg)
+![](http://ww3.sinaimg.cn/large/8a41f469gw1f7bxltqxctj20qo0zk41g.jpg)
 
 茶歇期间大家还把玩和体验了分享嘉宾们带过来的 Android Wear 手表设备
 
-![img](http://ww3.sinaimg.cn/large/8a41f469gw1f7bxt0nmhqj21kw11xaea.jpg)
+![](http://ww3.sinaimg.cn/large/8a41f469gw1f7bxt0nmhqj21kw11xaea.jpg)
 
-![img](http://ww4.sinaimg.cn/large/8a41f469gw1f7bxtus9dkj21kw11x78q.jpg)
+![](http://ww4.sinaimg.cn/large/8a41f469gw1f7bxtus9dkj21kw11x78q.jpg)
 
-![img](http://ww3.sinaimg.cn/large/8a41f469gw1f7bxu82s6ej21kw11xdi6.jpg)
+![](http://ww3.sinaimg.cn/large/8a41f469gw1f7bxu82s6ej21kw11xdi6.jpg)
 
-![img](http://ww2.sinaimg.cn/large/8a41f469gw1f7bxunyth4j21kw11xe16.jpg)
+![](http://ww2.sinaimg.cn/large/8a41f469gw1f7bxunyth4j21kw11xe16.jpg)
 
 
 *期间大家也互相讨论和分享自己感兴趣的话题和相关技术*
 
-![img](http://ww1.sinaimg.cn/large/8a41f469gw1f7bxvrixyoj21kw11xn22.jpg)
+![](http://ww1.sinaimg.cn/large/8a41f469gw1f7bxvrixyoj21kw11xn22.jpg)
 
-![img](http://ww1.sinaimg.cn/large/8a41f469gw1f7by037a2bj21kw11xk6h.jpg)
+![](http://ww1.sinaimg.cn/large/8a41f469gw1f7by037a2bj21kw11xk6h.jpg)
 
-![img](http://ww3.sinaimg.cn/large/8a41f469gw1f7bxz1b0rmj21kw11xtbe.jpg)
+![](http://ww3.sinaimg.cn/large/8a41f469gw1f7bxz1b0rmj21kw11xtbe.jpg)
 
 
 *简单的茶歇过后是第二位分享嘉宾带来的关于 Firebase 的分享*
 
-![img](http://ww4.sinaimg.cn/large/8a41f469gw1f7bxr95fqbj21kw11xk28.jpg)
+![](http://ww4.sinaimg.cn/large/8a41f469gw1f7bxr95fqbj21kw11xk28.jpg)
 
-![img](http://ww3.sinaimg.cn/large/8a41f469gw1f7bxrp2cvjj21kw11xdp7.jpg)
+![](http://ww3.sinaimg.cn/large/8a41f469gw1f7bxrp2cvjj21kw11xdp7.jpg)
 
-![img](http://ww3.sinaimg.cn/large/8a41f469gw1f7bxs8wwpkj21kw11xwhp.jpg)
+![](http://ww3.sinaimg.cn/large/8a41f469gw1f7bxs8wwpkj21kw11xwhp.jpg)
 
 
 *两个话题分享过后，大家意犹未尽，大家又聊一些其它的话题，比如：Chrome OS 等等。*
 
 最后，合影镇楼
 
-![img](http://ww4.sinaimg.cn/large/8a41f469gw1f7by26o6baj21kw11xanh.jpg)
+![](http://ww4.sinaimg.cn/large/8a41f469gw1f7by26o6baj21kw11xanh.jpg)
 
 
 

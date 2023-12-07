@@ -1,21 +1,23 @@
 ---
 title: 博客写作指南
-date: 1970-01-01 00:00:00
-sage: true
-password: mikemessi
-abstract: Welcome to my blog, enter password to read.
-message: Welcome to my blog, enter password to read.
+date: 2023-10-24 00:00:00
+categories: Guide
+tags:
+- Build
+- 2023
 ---
 
 ## 注意
-本指南仅适用于 GDG Zhengzhou 官方博客的更新写作，博客基于 Hexo 搭建，并使用了NexT.Pisces作为主题，为了提高阅读体验，使用了 `Hexo Blog Encrypt` 及 `Hexo Sage Posts` 隐藏了部分文章，这些均会导致文章 Front-matter 格式不同，因此该文章内提及的部分技巧在其他站点内**不适用**，但本文不会就这些差异点进行标注，请自行判断。
+本指南仅适用于 GDG Zhengzhou 官方博客的更新写作，博客基于 Hexo 搭建，并使用了 Icarus 作为主题。
 
 ## 文章结构
 文章主要由两部分组成，即 Front-matter 和正文部分，其中 Front-matter 主要用于文章标题、书写日期、类型、摘要、标签等的声明，正文部分为文章主体部分。
 
+<!-- more -->
+
 ## Front-matter
 
-**Front-matter** 是指每篇Hexo博客内MD格式文档头部的一串配置代码，他以`---`开头、结尾。
+**Front-matter** 是指每篇 Hexo 博客内MD格式文档头部的一串配置代码，他以`---`开头、结尾。
 
 ### 日常文章
 一篇典型的日常文章 Front-matter 如下：

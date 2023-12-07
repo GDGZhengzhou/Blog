@@ -43,7 +43,7 @@ tags:
 **最后** <br>
 所有到场人员合影留念，活动圆满结束。
 
-![活动照片](http://ww3.sinaimg.cn/large/8a41f469jw1eycs314ih3j21kw11x4jt.jpg)
+![](http://ww3.sinaimg.cn/large/8a41f469jw1eycs314ih3j21kw11x4jt.jpg)
 
 *活动照片*
 

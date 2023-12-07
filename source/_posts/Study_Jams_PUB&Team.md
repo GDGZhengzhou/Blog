@@ -2,7 +2,6 @@
 title: Study Jams 活动宣讲及参与组队活动总结
 date: 2016-03-31 18:00:00
 categories: Events
-description: 首先为大家介绍了GDG 的相关信息以及如何加入GDG，之后详细介绍了 StudyJams 活动的详细情况，并邀请大家一起参与到本次的 StudyJams 活动中来，之后大家又一起学习 1A 阶段的课程。
 tags:
   - Android
   - Study Jams
@@ -20,6 +19,8 @@ tags:
 
 首先为大家介绍了GDG 的相关信息以及如何加入GDG，之后详细介绍了 StudyJams 活动的详细情况，并邀请大家一起参与到本次的 StudyJams 活动中来，之后大家又一起学习 1A 阶段的课程。
 
-![20160330_185125.jpg](https://uc0.chinagdg.com/attachment/forum/201603/31/013700e1xyf6eg18zqtfxq.jpg)
-![大家认真听讲中](https://uc0.chinagdg.com/attachment/forum/201603/31/013924ephv6exedp383i1x.jpg)
-![活动圆满结束](https://uc0.chinagdg.com/attachment/forum/201603/31/014003si4zr0iw39a9io9x.jpg)
+<!-- more -->
+
+![](https://uc0.chinagdg.com/attachment/forum/201603/31/013700e1xyf6eg18zqtfxq.jpg)
+![](https://uc0.chinagdg.com/attachment/forum/201603/31/013924ephv6exedp383i1x.jpg)
+![](https://uc0.chinagdg.com/attachment/forum/201603/31/014003si4zr0iw39a9io9x.jpg)

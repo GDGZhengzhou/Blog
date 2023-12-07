@@ -2,20 +2,20 @@
 title: Google I/O 2018 Extended Zhengzhou活动总结
 date: 2018-05-09 18:00:00
 categories: Events
-description: 今年同往年一样准备了金水区以及高新区两个活动场地，其中金水区有26人（2位女士）参加，高新区有23人（1位女士）参加。
 tags:
   - Google I/O
   - 2018
 ---
-## Google I/O 2018 Extended Zhengzhou活动总结
 
 **活动总结**
 
-​	今年同往年一样准备了金水区以及高新区两个活动场地，其中金水区有26人（2位女士）参加，高新区有23人（1位女士）参加。
+今年同往年一样准备了金水区以及高新区两个活动场地，其中金水区有26人（2位女士）参加，高新区有23人（1位女士）参加。
 
-​	直播开始前由郑州GDG的组织者向大家简单介绍了 GDG 以及 IO Extended 的情况，并现场邀请第一次参加社区活动的成员正式加入郑州GDG，之后就是大家一起IO大会直播以及讨论大会中提出的新技术。
+直播开始前由郑州GDG的组织者向大家简单介绍了 GDG 以及 IO Extended 的情况，并现场邀请第一次参加社区活动的成员正式加入郑州GDG，之后就是大家一起IO大会直播以及讨论大会中提出的新技术。
 
-![avatar](http://p84y6k7lc.bkt.clouddn.com/IO2018.gif)
+<!-- more -->
+
+![](http://p84y6k7lc.bkt.clouddn.com/IO2018.gif)
 
 **活动主题**：Google IO 2018 Extended Zhengzhou
 
@@ -23,8 +23,8 @@ tags:
 
 **活动地点**：
 
-- [ 郑州创客空间 ] 郑州市高新区长椿路11号河南省国家大学科技园1号楼南配楼102室  
-- [ 邀拍咖啡 ] 郑州市金水区丰庆路半岛老房子商业街A02 
+- [郑州创客空间]郑州市高新区长椿路11号河南省国家大学科技园1号楼南配楼102室  
+- [邀拍咖啡]郑州市金水区丰庆路半岛老房子商业街A02 
 
 **活动组织者**：张会超、朱文凯、何金钢
 
@@ -34,19 +34,19 @@ tags:
 
 ##### 金水区分会场
 
-![avatar](https://secure.meetupstatic.com/photos/event/4/4/7/e/600_471017534.jpeg)
+![](https://secure.meetupstatic.com/photos/event/4/4/7/e/600_471017534.jpeg)
 
-![avatar](https://secure.meetupstatic.com/photos/event/4/4/3/f/600_471017471.jpeg)
+![](https://secure.meetupstatic.com/photos/event/4/4/3/f/600_471017471.jpeg)
 
-![avatar](https://secure.meetupstatic.com/photos/event/4/3/e/c/600_471017388.jpeg)
+![](https://secure.meetupstatic.com/photos/event/4/3/e/c/600_471017388.jpeg)
 
 ##### 高新区分会场
 
-![avatar](https://secure.meetupstatic.com/photos/event/3/0/a/0/600_470952448.jpeg)
+![](https://secure.meetupstatic.com/photos/event/3/0/a/0/600_470952448.jpeg)
 
-![avatar](https://secure.meetupstatic.com/photos/event/3/0/9/4/600_470952436.jpeg)
+![](https://secure.meetupstatic.com/photos/event/3/0/9/4/600_470952436.jpeg)
 
-![avatar](https://secure.meetupstatic.com/photos/event/2/b/a/d/600_470951181.jpeg)
+![](https://secure.meetupstatic.com/photos/event/2/b/a/d/600_470951181.jpeg)
 
 更多照片请戳这里：https://www.meetup.com/gdg-zhengzhou/photos/
 
@@ -66,16 +66,16 @@ https://www.youtube.com/playlist?list=PLOU2XLYxmsIInFRc3M44HUTQc3b_YJ4-Y
 
 ###### 主办方
 
-![avatar](http://p84y6k7lc.bkt.clouddn.com/%E9%83%91%E5%B7%9EGDG.webp)
+![](http://p84y6k7lc.bkt.clouddn.com/%E9%83%91%E5%B7%9EGDG.webp)
 
-![avatar](http://p84y6k7lc.bkt.clouddn.com/GoogleDevelopers.webp)
+![](http://p84y6k7lc.bkt.clouddn.com/GoogleDevelopers.webp)
 
 ###### 协办方
 
-![avatar](http://p84y6k7lc.bkt.clouddn.com/%E9%83%91%E5%B7%9E%E5%88%9B%E5%AE%A2%E7%A9%BA%E9%97%B4.webp)
+![](http://p84y6k7lc.bkt.clouddn.com/%E9%83%91%E5%B7%9E%E5%88%9B%E5%AE%A2%E7%A9%BA%E9%97%B4.webp)
 
-![avatar](http://p84y6k7lc.bkt.clouddn.com/YAOPAI.webp)
+![](http://p84y6k7lc.bkt.clouddn.com/YAOPAI.webp)
 
 ###### 关注郑州GDG
 
-![avatar](http://p84y6k7lc.bkt.clouddn.com/%E4%BA%8C%E7%BB%B4%E7%A0%81.webp)
+![](http://p84y6k7lc.bkt.clouddn.com/%E4%BA%8C%E7%BB%B4%E7%A0%81.webp)

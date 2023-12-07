@@ -2,7 +2,6 @@
 title: 郑州GDG I/O Extended 2016 活动总结
 date: 2016-05-19 18:00:00
 categories: Events
-description: 在I/O大会开始前，首先由郑州GDG的负责人张会超对GDG和郑州GDG进行了介绍，以及如何加入郑州GDG社区进行了简要说明。接着由喻恒春为大家分享了"感性 Golang"话题，介绍了GO语言开发相关知识。由刘楠分享了"UI&Color 创意的火箭如何起飞"，设计与色彩相关知识。之后大家体验了HTC Vive VR设备，和Google Tilt Brush VR绘画软件等VR游戏。北京时间19日凌晨01:00，Google I/O大会准时召开。
 tags:
   - I/O Extended
   - 2016
@@ -14,36 +13,36 @@ tags:
 **活动人数** :活动报名66人，实际参加51人(组织者4人)，其中女生2人<br>
 **活动组织者** :张会超 、谢晓广、皇雅飞 、朱文凯<br>
 **活动志愿者** :翟远航<br>
-
+<!-- more -->
 **活动内容** <br>
 *在I/O大会开始前，首先由郑州GDG的负责人张会超对GDG和郑州GDG进行了介绍，以及如何加入郑州GDG社区进行了简要说明。*
-![img](http://chinagdg.com/data/attachment/forum/201605/24/161747klq7yu733x7gnl6l.jpg)
+![](http://chinagdg.com/data/attachment/forum/201605/24/161747klq7yu733x7gnl6l.jpg)
 
 *接着由喻恒春为大家分享了"感性 Golang"话题，介绍了GO语言开发相关知识。*
-![img](http://chinagdg.com/data/attachment/forum/201605/24/162515d9xtto1ff09988bm.jpg)
+![](http://chinagdg.com/data/attachment/forum/201605/24/162515d9xtto1ff09988bm.jpg)
 
 *紧接着由刘楠分享了"UI&Color 创意的火箭如何起飞"，设计与色彩相关知识。*
-![img](http://chinagdg.com/data/attachment/forum/201605/24/162543zttmc4t7wscwcw4m.jpg)
+![](http://chinagdg.com/data/attachment/forum/201605/24/162543zttmc4t7wscwcw4m.jpg)
 
 *之后大家体验了HTC Vive VR设备，和Google Tilt Brush VR绘画软件等VR游戏。*
-![img](http://chinagdg.com/data/attachment/forum/201605/24/162659hhhd6afgpk40fduq.jpg)
+![](http://chinagdg.com/data/attachment/forum/201605/24/162659hhhd6afgpk40fduq.jpg)
 
 *北京时间19日凌晨01:00，Google I/O大会准时召开。*
-![img](http://chinagdg.com/data/attachment/forum/201605/24/162758bkgnii1yi1133nwi.jpg)
+![](http://chinagdg.com/data/attachment/forum/201605/24/162758bkgnii1yi1133nwi.jpg)
 
 *合影留念*
-![img](http://chinagdg.com/data/attachment/forum/201605/24/163543dmxpzvmhddizpxfc.jpg)
+![](http://chinagdg.com/data/attachment/forum/201605/24/163543dmxpzvmhddizpxfc.jpg)
 
 非常感谢本次 I/O活动志愿者 翟远航
 
 **活动掠影** <br>
-![img](http://chinagdg.com/data/attachment/forum/201605/24/1631307eyy4q7yg7d8830q.jpg)
-![img](http://chinagdg.com/data/attachment/forum/201605/24/163137ho1810ad8m33aam3.jpg)
-![img](http://chinagdg.com/data/attachment/forum/201605/24/163146as3mfjmk688vk86j.jpg)
-![img](http://chinagdg.com/data/attachment/forum/201605/24/163248ilwtgoyy4xyvi0cl.jpg)
-![img](http://chinagdg.com/data/attachment/forum/201605/24/163210focbgcb7toqf9of7.jpg)
-![img](http://chinagdg.com/data/attachment/forum/201605/24/163222gabea452h25lzac2.jpg)
-![img](http://chinagdg.com/data/attachment/forum/201605/24/1632392fef99txzvcynjxx.jpg)
+![](http://chinagdg.com/data/attachment/forum/201605/24/1631307eyy4q7yg7d8830q.jpg)
+![](http://chinagdg.com/data/attachment/forum/201605/24/163137ho1810ad8m33aam3.jpg)
+![](http://chinagdg.com/data/attachment/forum/201605/24/163146as3mfjmk688vk86j.jpg)
+![](http://chinagdg.com/data/attachment/forum/201605/24/163248ilwtgoyy4xyvi0cl.jpg)
+![](http://chinagdg.com/data/attachment/forum/201605/24/163210focbgcb7toqf9of7.jpg)
+![](http://chinagdg.com/data/attachment/forum/201605/24/163222gabea452h25lzac2.jpg)
+![](http://chinagdg.com/data/attachment/forum/201605/24/1632392fef99txzvcynjxx.jpg)
 
 ------
 
@@ -72,4 +71,4 @@ tags:
 - 郑州GDG 活动微信群
 
 由于群已过百人，请扫码下方本次活动组织者的微信号二维码添加(任意一个)他们为好友，加好友的备注信息请填写“郑州GDG”，由他们将您加入群聊<br>
- ![img](http://chinagdg.com/data/attachment/forum/201605/24/163653uautdct2u55uuu01.png)
+ ![](http://chinagdg.com/data/attachment/forum/201605/24/163653uautdct2u55uuu01.png)

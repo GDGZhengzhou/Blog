@@ -2,7 +2,6 @@
 title: 郑州 GDG TensorFlow Dev Summit 2017 Recap活动总结
 date: 2017-02-26 18:00:00
 categories: Events
-description: 活动于今日（2月26日）在金水区农科路38号 金城国际广场4号楼一单元504室顺利举行，除播放峰会的录像之外，我们邀请了一位社区里的小伙伴来给大家进行TensorFlow相关话题的分享。
 tags:
   - TensorFlow
   - 2017
@@ -29,6 +28,8 @@ tags:
 今天我们郑州GDG顺利的组织完成了TensorFlow Dev Summit 2017 Recap 活动。
 
 活动于今日（2月26日）在金水区农科路38号 金城国际广场4号楼一单元504室顺利举行，除播放峰会的录像之外，我们邀请了一位社区里的小伙伴来给大家进行TensorFlow相关话题的分享。
+
+<!-- more -->
 
 **活动安排**
 - 13：00——13：30签到
@@ -137,20 +138,20 @@ Fast Style Transfer in TensorFlow!<br>
 
 
 
-![开场介绍](https://uc0.chinagdg.com/attachment/forum/201702/26/202920bv6w777d9msd1som.jpg)
-![观看视频](https://uc0.chinagdg.com/attachment/forum/201702/26/202920ga9062e29u7t68l5.jpg)
-![观看视频](https://uc0.chinagdg.com/attachment/forum/201702/26/202921xpypxtpxtp88t76x.jpg)
-![观看视频](https://uc0.chinagdg.com/attachment/forum/201702/26/202921m2em8c8ej86mqtze.jpg)
-![观看视频](https://uc0.chinagdg.com/attachment/forum/201702/26/202922vvhh6vhhipp16hhj.jpg)
-![观看视频](https://uc0.chinagdg.com/attachment/forum/201702/26/202927p6j0gudscuwwx0ux.jpg)
-![观看视频](https://uc0.chinagdg.com/attachment/forum/201702/26/202928qm7y1w61zvcp6mpc.jpg)
-![讲师分享](https://uc0.chinagdg.com/attachment/forum/201702/26/202928vzzzxmxi7wwoqe20.jpg)
-![讲师分享](https://uc0.chinagdg.com/attachment/forum/201702/26/202929e0ldhhdtjl9deckp.jpg)
-![讲师分享](https://uc0.chinagdg.com/attachment/forum/201702/26/202929b178ou9j83gfr19b.jpg)
-![讲师分享](https://uc0.chinagdg.com/attachment/forum/201702/26/202931vv1m5yvl13ukg1yy.jpg)
-![交流分享](https://uc0.chinagdg.com/attachment/forum/201702/26/202931o6dxqx88s8fzybff.jpg)
-![合影](https://uc0.chinagdg.com/attachment/forum/201702/26/202932u5flmgxbbqgmhs4w.jpg)
-![场地提供方： 蓝踪旅行](https://uc0.chinagdg.com/attachment/forum/201702/26/203542pjm2qa15455jjx69.jpg)
+![](https://uc0.chinagdg.com/attachment/forum/201702/26/202920bv6w777d9msd1som.jpg)
+![](https://uc0.chinagdg.com/attachment/forum/201702/26/202920ga9062e29u7t68l5.jpg)
+![](https://uc0.chinagdg.com/attachment/forum/201702/26/202921xpypxtpxtp88t76x.jpg)
+![](https://uc0.chinagdg.com/attachment/forum/201702/26/202921m2em8c8ej86mqtze.jpg)
+![](https://uc0.chinagdg.com/attachment/forum/201702/26/202922vvhh6vhhipp16hhj.jpg)
+![](https://uc0.chinagdg.com/attachment/forum/201702/26/202927p6j0gudscuwwx0ux.jpg)
+![](https://uc0.chinagdg.com/attachment/forum/201702/26/202928qm7y1w61zvcp6mpc.jpg)
+![](https://uc0.chinagdg.com/attachment/forum/201702/26/202928vzzzxmxi7wwoqe20.jpg)
+![](https://uc0.chinagdg.com/attachment/forum/201702/26/202929e0ldhhdtjl9deckp.jpg)
+![](https://uc0.chinagdg.com/attachment/forum/201702/26/202929b178ou9j83gfr19b.jpg)
+![](https://uc0.chinagdg.com/attachment/forum/201702/26/202931vv1m5yvl13ukg1yy.jpg)
+![](https://uc0.chinagdg.com/attachment/forum/201702/26/202931o6dxqx88s8fzybff.jpg)
+![](https://uc0.chinagdg.com/attachment/forum/201702/26/202932u5flmgxbbqgmhs4w.jpg)
+![](https://uc0.chinagdg.com/attachment/forum/201702/26/203542pjm2qa15455jjx69.jpg)
 
 ### 关于 GDG
 
@@ -174,7 +175,6 @@ Fast Style Transfer in TensorFlow!<br>
 
 > ###### PS：作为有态度的 Google Geek，推荐你注册 Gmail 账号，还有成为我们的社区成员！怎么加入 GDG Zhengzhou 的大家庭呢？你只需 2 步即可成为 GDG Zhengzhou 的成员 第0步：加入 GDG Zhengzhou 的邮件组，加入邮件组只需要发送空邮件到[zhengzhou-gdg+subscribe@googlegroups.com](mailto:zhengzhou-gdg+subscribe@googlegroups.com)，之后会收到一封确认邮件，点击**「加入此群组」**strong>按钮即可。第1步：加入 Meetup Groups 打开链接：<https://www.meetup.com/gdg-zhengzhou>，然后点击**「Join us」**按钮即可。**我们只为加入 GDG Zhengzhou 的 邮件组 和 GDG Zhengzhou 的 Meetup Group 的小伙伴增送小礼品。请各位注意！！！！**
 
-​     
 
 @2015 GDG Zhengzhou | Designed by [Vardan Grigoryan](http://vg.am/)
 

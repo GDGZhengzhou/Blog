@@ -2,7 +2,6 @@
 title: 郑州 GDG 每月周末聚会#第0期活动总结
 date: 2016-03-19 18:00:00
 categories: Events
-description: 本次活动是郑州GDG2016年的首次活动，同时也是每月周末聚会的首次活动，活动开始后，主持人首先跟大家介绍了GDG以及郑州GDG的相关情况，之后是大家挨个的做简单的自我介绍以及预先备选的几个话题的讨论，活动现场气氛热烈，大家都积极踊跃发言，提出自己的问题，同时也分享自己的相关经验给其他小伙伴。
 tags:
   - 周末聚会
   - 2016
@@ -13,6 +12,8 @@ tags:
 **报名人数**：17人<br>
 **参加人数**：16人<br>
 **G+ Event**：[https://plus.google.com/u/0/events/c47sh67re7fo8f8u25sp3evilqs](https://plus.google.com/u/0/events/c47sh67re7fo8f8u25sp3evilqs)
+
+<!-- more -->
 
 **活动安排**：<br>
 - 13:30 - 14:00 签到
@@ -37,6 +38,6 @@ tags:
 2.举办活动的场地位置太偏交通不是很方便，下次协调一个靠近市区交通便利的地方
 
 **现场活动照片**：<br>
-![现场活动照片](https://uc0.chinagdg.com/attachment/forum/201603/22/123404bbmjpgbbqhjq886h.png)
+![](https://uc0.chinagdg.com/attachment/forum/201603/22/123404bbmjpgbbqhjq886h.png)
 
 更多活动照片：[https://plus.google.com/u/0/events/gallery/c47sh67re7fo8f8u25sp3evilqs?sort=1](https://plus.google.com/u/0/events/gallery/c47sh67re7fo8f8u25sp3evilqs?sort=1)
