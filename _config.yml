@@ -78,7 +78,8 @@ theme: icarus
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: 'git'
+  repo: git@github.com:GDGZhengzhou/Blog.git
 
 #RSS
 ## Docs: https://github.com/hexojs/hexo-generator-feed
