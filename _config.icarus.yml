@@ -7,7 +7,7 @@ logo: /img/200.jpg
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: /img/logo-32.svg
+    favicon: /img/logo-32.webp
     # Web application manifests configuration
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
     manifest:
@@ -19,10 +19,10 @@ head:
         # The start URL of the web application
         start_url:
         # The default theme color for the application
-        theme_color: 
+        theme_color: "#f1f3f4"
         # A placeholder background color for the application page to display
         # before its stylesheet is loaded
-        background_color: 
+        background_color: "#f1f3f4"
         # The preferred display mode for the website
         display: standalone
         # Image files that can serve as application icons for different contexts
@@ -99,11 +99,9 @@ navbar:
     # Navigation menu items
     menu:
         主页: /
-        存档: /archives
-        分类: /categories
-        标签: /tags
         关于: /about
         志愿者: /people
+        联系我们: /help
     # Links to be shown on the right of the navigation bar
     links:
         Download on GitHub:
@@ -114,8 +112,6 @@ navbar:
             url: https://gdg.community.dev/gdg-zhengzhou
 # Page footer configurations
 footer:
-    # Copyright text
-    copyright: © Since 2015
     # Links to be shown on the right of the footer section
     links:
         Creative Commons:
@@ -181,7 +177,7 @@ widgets:
         # Author name
         author: GDG Zhengzhou
         # Author title
-#        author_title: Your title
+        author_title: GDG Zhengzhou official blog
         # Author's current location
         location: Zhengzhou
         # URL or path to the avatar image
@@ -219,35 +215,24 @@ widgets:
         # Whether to collapse sub-headings when they are out-of-view
         collapsed: true
         # Maximum level of headings to show (1-6)
-        depth: 3
-    # Recommendation links widget configurations
+        depth: 3    # Recommendation links widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
+        position: right
         type: links
         # Names and URLs of the sites
         links:
-            GDG Event Platform: https://gdg.community.dev/gdg-zhengzhou
-            Bulma: https://bulma.io
-    # Categories widget configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: categories
+            Google 中国: https://china.googleblog.com/
+            Bard: https://bard.google.com/chat
     # Recent posts widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
         position: left
         type: recent_posts
-    # Archives widget configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: archives
     # Tags widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
+        position: right
         type: tags
         # How to order tags. For example 'name' to order by name in ascending order, and '-length' to order by number of posts in each tags in descending order
         order_by: name
@@ -255,6 +240,17 @@ widgets:
         amount: 
         # Whether to show tags count, i.e. number of posts in the tag.
         show_count: true
+    # Categories widget configurations
+    -
+        # Where should the widget be placed, left sidebar or right sidebar
+        position: right
+        type: categories
+    # Archives widget configurations
+    -
+        # Where should the widget be placed, left sidebar or right sidebar
+        position: right
+        type: archives
+
 # Plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/
 plugins:

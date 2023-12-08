@@ -1,13 +1,16 @@
 ---
 title: 郑州GDG 每月周末聚会 第 8 期活动招募
 date: 2023-12-05 18:00:00
-categories: Events
+categories: 
+- Events
 tags:
 - 周末聚会
 - 2023
+language: zh-CN
+toc: true
+cover: https://s2.loli.net/2023/12/07/czw4q23vWMOZtTA.jpg
+thumbnail: https://s2.loli.net/2023/12/07/czw4q23vWMOZtTA.jpg
 ---
-
-![](https://s2.loli.net/2023/12/07/czw4q23vWMOZtTA.jpg)
 
 社区的小伙伴们大家好
 

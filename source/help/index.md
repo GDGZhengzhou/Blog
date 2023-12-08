@@ -40,7 +40,9 @@ updated: 2023-12-07 11:22:17
 
 ~~我们现在与全球其他社区一样，转移到了 [Meetup](https://www.meetup.com/gdg-zhengzhou) ，现在所有的活动信息均会在第一时间在 Meetup 上发布、收集报名，我们推荐你注册 Meetup 并关注 GDG Zhengzhou，以确保你会在第一时间收到我们的活动通知。~~
 
-受全球社区方案调整，自2021年5月开始，GDG 社区不再使用 Meetup 发布活动，而是在 [GDG Event Platform](https://gdg.community.dev) 发布活动，请关注并加入 GDG Zhengzhou 的主页: https://gdg.community.dev/gdg-zhengzhou
+受全球社区方案调整，自2021年5月开始，GDG 社区不再使用 Meetup 发布活动，而是在 [GDG Event Platform](https://gdg.community.dev) 发布活动
+
+请在 GDG Event Platform 上关注并加入 GDG Zhengzhou 的主页: https://gdg.community.dev/gdg-zhengzhou
 
 ### 微信
 与各个国家的 GDG 社区一样，我们的活动也会在 GEP 以外的本地平台发布活动通知
