@@ -104,7 +104,7 @@ navbar:
         联系我们: /help
     # Links to be shown on the right of the navigation bar
     links:
-        Download on GitHub:
+        GitHub:
             icon: fab fa-github
             url: https://github.com/orgs/GDGZhengzhou
         Join us:
