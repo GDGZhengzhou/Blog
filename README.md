@@ -1,3 +1,3 @@
-# icemberry
+# GDG Zhengzhou Blog
 Blog source code
-base on hexo
+Powered by Hexo & Icarus
