@@ -49,7 +49,7 @@ updated: 2025-12-02 14:38:17
 
 考虑到微信在中国被广泛使用，我们注册了微信公众账号，我们主要会在公众号内发布活动通知、活动总结以及一些技术分享，你可以扫描以下二维码关注我们。
 
-![郑州GDG](https://i.mji.rip/2025/12/02/3e5ddac8664d86591ada2f057220315f.jpeg)
+![郑州GDG](https://s2.loli.net/2025/12/02/foruIObQDK7SeXB.jpg)
 
 或直接点击链接关注我们: [郑州 GDG](http://weixin.qq.com/r/OzqosJbEuMvHrdLT928p)
 

@@ -6,7 +6,7 @@ updated: 2025-12-02 14:31:23
 
 ## GDG是什么？
 
-![Google Developer Groups](https://i.mji.rip/2025/12/02/a166202b071ed9e8713c37531bc54466.png)
+![GDG Developer Groups](https://s2.loli.net/2025/12/02/ayYAeIGwNLck983.png)
 
 GDG 是 Google Developer Groups (谷歌开发者社区)的缩写，也是现在项目的正式名称。GDG 是谷歌开发者部门发起的开发者社区全球项目，是面向对 Google 和开源、开放技术感兴趣的公益性开发者社区，内容涵盖 AI、Web、Android 和其它 Google API 等。
 
@@ -14,7 +14,7 @@ GDG 是 Google Developer Groups (谷歌开发者社区)的缩写，也是现在�
 
 ## 郑州GDG是什么？
 
-![郑州GDG](https://i.mji.rip/2025/12/02/ec82308d79a0b9f858777fe90313a682.png)
+![GDG Zhengzhou](https://s2.loli.net/2025/12/02/QdG7y5hmcC1TxfD.jpg)
 
 郑州 GDG (谷歌开发者社区)是一个由 Google 支持的、主要关注谷歌及开源技术的非营利性的民间开发者社区。
 
