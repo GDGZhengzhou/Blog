@@ -1,7 +1,7 @@
 ---
 title: 帮助
 date: 2019-02-13 16:21:56
-updated: 2023-12-07 11:22:17
+updated: 2025-12-02 14:38:17
 ---
 ## 联系我们
 
@@ -42,14 +42,14 @@ updated: 2023-12-07 11:22:17
 
 受全球社区方案调整，自2021年5月开始，GDG 社区不再使用 Meetup 发布活动，而是在 [GDG Event Platform](https://gdg.community.dev) 发布活动
 
-请在 GDG Event Platform 上关注并加入 GDG Zhengzhou 的主页: https://gdg.community.dev/gdg-zhengzhou
+请在 GDG Event Platform 上关注并加入 GDG Zhengzhou 的主页: https://gdg.community.dev/gdg-zhengzhou/
 
 ### 微信
 与各个国家的 GDG 社区一样，我们的活动也会在 GEP 以外的本地平台发布活动通知
 
 考虑到微信在中国被广泛使用，我们注册了微信公众账号，我们主要会在公众号内发布活动通知、活动总结以及一些技术分享，你可以扫描以下二维码关注我们。
 
-![](https://i.loli.net/2019/02/13/5c63e3652c89e.jpg)
+![郑州GDG](https://i.mji.rip/2025/12/02/3e5ddac8664d86591ada2f057220315f.jpeg)
 
 或直接点击链接关注我们: [郑州 GDG](http://weixin.qq.com/r/OzqosJbEuMvHrdLT928p)
 
@@ -82,8 +82,8 @@ updated: 2023-12-07 11:22:17
 
 *类型说明*
 
-*`大型活动`指 GDG Global 每年传统活动，包括 WTM, I/O Extended, DevFest, Cloud Extended, Flutter Live extended, TensorFlow Day。*
+*`大型活动`指 GDG Global 每年传统活动，包括 WTM, I/O Extended, DevFest, Build With AI, Cloud Extended, Flutter Live extended, TensorFlow Day。*
 
-*`CODE活动`指线下代码实操活动，包含 Hackathon, Codelab, Study Jams。*
+*`CODE活动`指线下代码实操活动，包含 Hackathon, Codelab, Study Jams, Workshop。*
 
 *`Meetup`指日常 Meetup，通常没有实际操作的部分，以话题讨论、小规模技术分享、实验性质活动为主*
