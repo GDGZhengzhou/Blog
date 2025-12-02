@@ -1,62 +1,32 @@
-name: Deploy to Tencent COS via coscli
+name: Deploy to Tencent COS
 
 on:
   push:
     branches:
-      - hexo # 监听主分支推送
+      - hexo
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    
     steps:
-      # 1. 拉取代码
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # 2. (可选) 安装 Node.js 并构建前端项目
-      - name: Setup Node.js and Build
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - run: |
+
+      - name: Install Dependencies and Build
+        run: |
           npm install
           npm run build
-        # 假设构建产物在 ./dist 目录
 
-      # --- COS CLI 部署核心步骤 ---
-
-      # 3. 更可靠的安装 coscli
-      - name: Install coscli (Robust Method)
-        run: |
-          COSCLI_VERSION="1.0.12"
-          # 使用 curl 下载，并重命名为 coscli
-          curl -LO https://cos-sdk-archive-1253960454.file.myqcloud.com/coscli/v${COSCLI_VERSION}/coscli-linux 
-          mv coscli-linux coscli
-          chmod +x coscli
-          
-      # 4. 配置 coscli 密钥和存储桶 (此步骤不变)
-      - name: Configure coscli
-        run: |
-          # coscli 需要一个配置文件 (~/.cos.yaml)
-          # 注意：这里的 SecretId, SecretKey 等都是通过 GitHub Secrets 传入的环境变量
-          mkdir -p ~/.config/coscli
-          cat <<EOF > ~/.config/coscli/config.yaml
-          # coscli 配置文件内容
-          secretid: ${{ secrets.TENCENT_SECRET_ID }}
-          secretkey: ${{ secrets.TENCENT_SECRET_KEY }}
-          storageclass: STANDARD
-          buckets:
-            - name: ${{ secrets.COS_BUCKET }}
-              region: ${{ secrets.COS_REGION }}
-          EOF
-          
-        
-        
-      # 5. 执行同步部署命令 (关键变化：需要指定 coscli 的路径)
-      - name: Deploy Sync to COS
-        run: |
-          # 因为 coscli 不在系统 PATH 中，我们需要使用相对路径 './coscli' 执行
-          ./coscli sync ./public/ cos://${{ secrets.COS_BUCKET }}/ -r
-        env:
-          COS_BUCKET: ${{ secrets.COS_BUCKET }}
+      - name: Deploy to COS
+        uses: zkqiang/tencent-cos-action@v0.1.0
+        with:
+          args: delete -r -f / && upload -r ./public/ /
+          secret_id: ${{ secrets.TENCENT_SECRET_ID }}
+          secret_key: ${{ secrets.TENCENT_SECRET_KEY }}
+          bucket: ${{ secrets.COS_BUCKET }}
+          region: ${{ secrets.COS_REGION }}
