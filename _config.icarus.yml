@@ -7,7 +7,7 @@ logo: /img/200.jpg
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: /img/logo-32.webp
+    favicon: /img/favicon.png
     # Web application manifests configuration
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
     manifest:
@@ -223,7 +223,7 @@ widgets:
         # Names and URLs of the sites
         links:
             Google 中国: https://china.googleblog.com/
-            Bard: https://bard.google.com/chat
+            Gemini: https://gemini.google.com/
     # Recent posts widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
