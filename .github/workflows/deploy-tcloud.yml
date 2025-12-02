@@ -1,0 +1,66 @@
+name: Deploy to Tencent COS via coscli
+
+on:
+  push:
+    branches:
+      - hexo # 监听主分支推送
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # 1. 拉取代码
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 2. (可选) 安装 Node.js 并构建前端项目
+      - name: Setup Node.js and Build
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: |
+          npm install
+          npm run build
+        # 假设构建产物在 ./dist 目录
+
+      # --- COS CLI 部署核心步骤 ---
+
+      # 3. 安装 coscli
+      # 这里的版本号请自行检查coscli官方发布的最新版本
+      - name: Install coscli
+        run: |
+          # 下载最新的 coscli 二进制文件 (Linux x64)
+          COSCLI_VERSION="1.0.12" 
+          wget -q https://cos-sdk-archive-1253960454.file.myqcloud.com/coscli/v${COSCLI_VERSION}/coscli-linux -O coscli
+          chmod +x coscli
+          sudo mv coscli /usr/local/bin/
+
+      # 4. 配置 coscli 密钥和存储桶
+      - name: Configure coscli
+        run: |
+          # coscli 需要一个配置文件 (~/.cos.yaml)
+          # 注意：这里的 SecretId, SecretKey 等都是通过 GitHub Secrets 传入的环境变量
+          mkdir -p ~/.config/coscli
+          cat <<EOF > ~/.config/coscli/config.yaml
+          # coscli 配置文件内容
+          secretid: ${{ secrets.TENCENT_SECRET_ID }}
+          secretkey: ${{ secrets.TENCENT_SECRET_KEY }}
+          storageclass: STANDARD
+          buckets:
+            - name: ${{ secrets.COS_BUCKET }}
+              region: ${{ secrets.COS_REGION }}
+          EOF
+          
+      # 5. 执行同步部署命令
+      - name: Deploy Sync to COS
+        run: |
+          # 使用 'sync' 命令将本地目录同步到 COS 存储桶的根目录
+          # -r: 递归同步
+          # --delete: 删除远程目标中存在，而本地源中不存在的文件（慎用，确保 local_path 正确）
+          # --include: 只包含指定的文件，例如只上传HTML, CSS, JS
+          
+          # 本地目录 ./public 同步到 COS 根目录
+          coscli sync ./public/ cos://${{ secrets.COS_BUCKET }}/ -r
+        env:
+          COS_BUCKET: ${{ secrets.COS_BUCKET }}
