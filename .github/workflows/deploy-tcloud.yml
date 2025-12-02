@@ -37,7 +37,21 @@ jobs:
           
       # 4. 配置 coscli 密钥和存储桶 (此步骤不变)
       - name: Configure coscli
-        # ... 配置内容 ...
+        run: |
+          # coscli 需要一个配置文件 (~/.cos.yaml)
+          # 注意：这里的 SecretId, SecretKey 等都是通过 GitHub Secrets 传入的环境变量
+          mkdir -p ~/.config/coscli
+          cat <<EOF > ~/.config/coscli/config.yaml
+          # coscli 配置文件内容
+          secretid: ${{ secrets.TENCENT_SECRET_ID }}
+          secretkey: ${{ secrets.TENCENT_SECRET_KEY }}
+          storageclass: STANDARD
+          buckets:
+            - name: ${{ secrets.COS_BUCKET }}
+              region: ${{ secrets.COS_REGION }}
+          EOF
+          
+        
         
       # 5. 执行同步部署命令 (关键变化：需要指定 coscli 的路径)
       - name: Deploy Sync to COS
